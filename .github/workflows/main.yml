@@ -14,4 +14,5 @@ jobs:
         with:
           access-token: a4457f320c542bcc6eacb9e5fbcd373d946c8730
           deploy-branch: master
+          skip-publish: false 
           ##gatsby-args: --prefix-paths
