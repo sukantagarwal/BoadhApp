@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v1
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
-          ##access-token: 
+          access-token: a4457f320c542bcc6eacb9e5fbcd373d946c8730
           deploy-branch: master
           ##gatsby-args: --prefix-paths
