@@ -1,0 +1,170 @@
+[
+  {
+    "Code": "Bp-01",
+    "ISBN": "9788190624404",
+    "Title": "patrakarita-ek parichaye",
+    "Author": "Ramesh Gupt Neerad/Dr. Madhu Dhawan",
+    "Binding": "PB",
+    "Price": "₹ 140"
+  },
+  {
+    "Code": "Bp-02",
+    "ISBN": "9788190624442",
+    "Title": "Nit Naya Anuvandh",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "HB",
+    "Price": "₹ 130"
+  },
+  {
+    "Code": "Bp-03",
+    "ISBN": "9788190624428",
+    "Title": "Patrachar And Abhavas",
+    "Author": "Dr.Madhu Dhawan",
+    "Binding": "PB",
+    "Price": "₹ 80"
+  },
+  {
+    "Code": "Bp-04",
+    "ISBN": "9788190624435",
+    "Title": "Prayojan Mulak Hindi..Rajbhasha Neeti",
+    "Author": "Dr.Madhu Dhawan",
+    "Binding": "PB",
+    "Price": "₹ 40"
+  },
+  {
+    "Code": "Bp-05",
+    "ISBN": "9788190624411",
+    "Title": "Jab Yaad Tumhe Meri Aaye",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "Bp-06",
+    "ISBN": "9789382380023",
+    "Title": "Kahin Kuch Choot Gaya Hai",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "HB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "Bp-07",
+    "ISBN": "9789382380023",
+    "Title": "Kahin Kuch Choot Gaya Hai",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "Bp-08",
+    "ISBN": "9789382380047",
+    "Title": "Mere Geet Tumhare Sathi",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "HB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "Bp-09",
+    "ISBN": "9789382380047",
+    "Title": "Mere Geet Tumhare Sathi",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "Bp-10",
+    "ISBN": "9789382380030",
+    "Title": "Tamil Ki Lokathayen",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "HB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "Bp-11",
+    "ISBN": "9789382380030",
+    "Title": "Tamil Ki Lokathayen",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "Bp-12",
+    "ISBN": "9789382380009",
+    "Title": "Chingari Ke Ansh ",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "Bp-13",
+    "ISBN": "9789382380009",
+    "Title": "Chingari Ke Ansh ",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "PB",
+    "Price": "₹ 220"
+  },
+  {
+    "Code": "Bp-14",
+    "ISBN": "9789382380016",
+    "Title": "Khuli Khidkiyan",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "Bp-15",
+    "ISBN": "9789382380016",
+    "Title": "Khuli Khidkiyan",
+    "Author": "Ramesh Gupt Neerad",
+    "Binding": "PB",
+    "Price": "₹ 220"
+  },
+  {
+    "Code": "Bp-16",
+    "ISBN": "9789382380139",
+    "Title": "Guldasta-Ramesh Gupt Neerad Ki Chuninda Kavitayen",
+    "Author": "ED. Dr.Sunita Jajodiya",
+    "Binding": "HB",
+    "Price": "₹ 540"
+  },
+  {
+    "Code": "Bp-17",
+    "ISBN": "9789382380153",
+    "Title": "Ramesh Gupt Neerad:Jeevan Aur Sahitya",
+    "Author": "ED. Dr.Sunita Jajodiya",
+    "Binding": "HB",
+    "Price": "₹ 675"
+  },
+  {
+    "Code": "Bp-18",
+    "ISBN": "9788190624473",
+    "Title": "Chup Nahi Hai Ishwar",
+    "Author": "Ishwar Karun",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "Bp-19",
+    "ISBN": "9788190624473",
+    "Title": "Chup Nahi Hai Ishwar",
+    "Author": "Ishwar Karun",
+    "Binding": "PB",
+    "Price": "₹ 180"
+  },
+  {
+    "Code": "Bp-20",
+    "ISBN": "9788190624480",
+    "Title": "Gulab Chand Kotadia (Krititva)",
+    "Author": "ED.Ramesh Gupt Neerad/Dr.Madhu Dhawan",
+    "Binding": "PB",
+    "Price": "₹ 180"
+  },
+  {
+    "Code": "Bp-21",
+    "ISBN": "9789382380146",
+    "Title": "Gadya Kunj",
+    "Author": "ED. Dr.Sunita Jajodiya",
+    "Binding": "PB",
+    "Price": "₹ 240"
+  }
+]

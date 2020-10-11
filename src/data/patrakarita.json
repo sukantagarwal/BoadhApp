@@ -1,0 +1,90 @@
+[
+  {
+    "Code": "SM-01",
+    "ISBN": "9789380459172",
+    "Title": "Online Patrakarita",
+    "Author": "Harshdev",
+    "Binding": "HB",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-02",
+    "ISBN": "9788190809580",
+    "Title": "Crime Kanoon Aur Reporter",
+    "Author": "Harshdev",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-03",
+    "ISBN": "9789380458960",
+    "Title": "Media aur Bazar",
+    "Author": "Ed. Vartika Nanda",
+    "Binding": "HB",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-04",
+    "ISBN": "9788171382866",
+    "Title": "Khabar Yahan Bhi…",
+    "Author": "Vartika Nanda",
+    "Binding": "HB",
+    "Price": "₹ 360.00"
+  },
+  {
+    "Code": "SM-05",
+    "ISBN": "9789380458908",
+    "Title": "Sahityik Patrakarita aur Vishal Bharat",
+    "Author": "Poonam Singh",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-06",
+    "ISBN": "9788171381241",
+    "Title": "Photo Patrakarita",
+    "Author": "Naval Jaiswal",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-07",
+    "ISBN": "9788171381197",
+    "Title": "Sanskriti/ Jansanchar Aur Bazar",
+    "Author": "Nand Bhardwaj",
+    "Binding": "HB",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-08",
+    "ISBN": "9788171380114",
+    "Title": "Ikkisavin Sadi aur Hindi Patrakarita",
+    "Author": "Ed. Amrendra Kumar",
+    "Binding": "HB",
+    "Price": "₹ 200.00"
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9789389012279",
+    "Title": "Jantantra Evam Sansadiya Samvad",
+    "Author": "Rakesh Kumar Yogi",
+    "Binding": "HB",
+    "Price": "₹ 399"
+  },
+  {
+    "Code": "VP-02",
+    "ISBN": "9788170553366",
+    "Title": "Samkaleen Patrakarita Moolyankan Aur Mudde",
+    "Author": "Rajkishor",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-03",
+    "ISBN": "9789389563979",
+    "Title": "Satta Ke Samne",
+    "Author": "Mukesh Bhardwaj",
+    "Binding": "HB",
+    "Price": "₹ 299"
+  }
+]

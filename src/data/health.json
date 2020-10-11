@@ -1,0 +1,106 @@
+[
+  {
+    "Code": "PP-01",
+    "ISBN": "8173154864",
+    "Title": "Hum Swastha Kaise Rahen",
+    "Author": "K N Jauhari",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-02",
+    "ISBN": "9789351865971",
+    "Title": "Patanjali Yog Sutra",
+    "Author": "B.K.S. Iyenger",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-03",
+    "ISBN": "9789351867708",
+    "Title": "Aahaar Chikitsa",
+    "Author": "Swami Akshaya Atmanand",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-04",
+    "ISBN": "9789380823300",
+    "Title": "Ghar Ka Doctor",
+    "Author": "Prempal Sharma",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788126717477",
+    "Title": "365 Swasthya Mantra",
+    "Author": "Dr. Yatish Agarwal",
+    "Binding": "HB",
+    "Price": "₹ 595"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "9788126717484",
+    "Title": "365 Swasthya Mantra",
+    "Author": "Dr. Yatish Agarwal",
+    "Binding": "PB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788183619134",
+    "Title": "5 Pills Depression-Stress Se Mukti Ke Liye",
+    "Author": "Abrar Multani",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788190283427",
+    "Title": "Prakritik Chikitsa",
+    "Author": "Jogendra Cour Khanuja",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RS-01",
+    "ISBN": "9.79E+12",
+    "Title": "Charitra Nirman",
+    "Author": "Vidyalankar/Satyakam",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-02",
+    "ISBN": "9.79E+12",
+    "Title": "Safal Jeevan",
+    "Author": "Vidyalankar/Satyakam",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RS-03",
+    "ISBN": "9.79E+12",
+    "Title": "Aatma Vikas",
+    "Author": "Kumar/Anand",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "VG-01",
+    "ISBN": "9789384456153",
+    "Title": "BHOJAN DWARA CHIKITSA",
+    "Author": "VEDHYA RAJ SUDARSHSAN",
+    "Binding": "PB",
+    "Price": "₹   110.00 "
+  },
+  {
+    "Code": "VG-02",
+    "ISBN": "9789384456696",
+    "Title": "PATANJALI YOGA SUTRA  (HINDI )",
+    "Author": "VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   100.00 "
+  }
+]

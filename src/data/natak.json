@@ -1,0 +1,450 @@
+[
+  {
+    "Code": "PP-01",
+    "ISBN": "8173151814",
+    "Title": "Nyaya-Anyaya Ke Ekanki",
+    "Author": "Giriraj Sharan Agrawal",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "PP-02",
+    "ISBN": "8173152020",
+    "Title": "Aitihasik Prashthabhoomi Ke Ekanki",
+    "Author": "Giriraj Sharan Agrawal",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "PP-03",
+    "ISBN": "9789352661244",
+    "Title": "Chune Hue Bal Ekanki (Set-2)",
+    "Author": "Dr. Rohitashva Asthana",
+    "Binding": "HB",
+    "Price": "₹ 1000"
+  },
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788171199051",
+    "Title": "Aadhe-Adhoore",
+    "Author": "Mohan Rakesh",
+    "Binding": "HB",
+    "Price": "₹ 299"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "9788171196463",
+    "Title": "Mahabhoj Natak",
+    "Author": "Mannu Bhandari",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788171797783",
+    "Title": "Teen Bahanein",
+    "Author": "Anton Chekhav",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788183618410",
+    "Title": "Teen Bahanein",
+    "Author": "Anton Chekhav",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "RS-01",
+    "ISBN": "9.79E+12",
+    "Title": "Mohan Rakesh Ke Sampurna Natak",
+    "Author": "Rakesh/Mohan",
+    "Binding": "HB",
+    "Price": "₹ 550"
+  },
+  {
+    "Code": "RS-02",
+    "ISBN": "9.79E+12",
+    "Title": "Bhookh Aag Hai",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-03",
+    "ISBN": "9.79E+12",
+    "Title": "Pair Tale Ki Zameen",
+    "Author": "Rakesh/Mohan",
+    "Binding": "PB",
+    "Price": "₹ 85"
+  },
+  {
+    "Code": "RS-04",
+    "ISBN": "978 81 7028 289 1",
+    "Title": "Gaado Ke Intezaar Mein",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "RS-05",
+    "ISBN": "978 81 7028 299 0",
+    "Title": "Hatyare",
+    "Author": "Kohli/Narendra",
+    "Binding": "HB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "RS-06",
+    "ISBN": "9.79E+12",
+    "Title": "Humari Budhiya",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 100"
+  },
+  {
+    "Code": "RS-07",
+    "ISBN": "978 81 7028 395 7",
+    "Title": "Chandrakanta",
+    "Author": "Kamleshwar",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-08",
+    "ISBN": "9.79E+12",
+    "Title": "Uske Bayan",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-09",
+    "ISBN": "9.79E+12",
+    "Title": "Ashad Ka Ek Din",
+    "Author": "Rakesh/Mohan",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-10",
+    "ISBN": "978 81 7028 431 4",
+    "Title": "Mona Liza Ki Muskan",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RS-11",
+    "ISBN": "9.79E+12",
+    "Title": "Samay Ki Shila Par",
+    "Author": "Joshi/Himanshu",
+    "Binding": "HB",
+    "Price": "₹ 100"
+  },
+  {
+    "Code": "RS-12",
+    "ISBN": "9.79E+12",
+    "Title": "Hindustan Hamara",
+    "Author": "Kamleshwar",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "RS-13",
+    "ISBN": "978 81 7028 598 4",
+    "Title": "Bharatmata Gramvasini",
+    "Author": "Kamleshwar",
+    "Binding": "HB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "RS-14",
+    "ISBN": "978 81 7028 622 6",
+    "Title": "Khwab Hai Deewane Ka",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "RS-15",
+    "ISBN": "9.79E+12",
+    "Title": "Pariwar Akhada",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RS-16",
+    "ISBN": "9.79E+12",
+    "Title": "Boodhi Kaki Tatha Anya Natak",
+    "Author": "Mudgal/Chitra",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-17",
+    "ISBN": "9.79E+12",
+    "Title": "Hamlet",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-18",
+    "ISBN": "9.79E+12",
+    "Title": "Venice Ka Saudagar",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 140"
+  },
+  {
+    "Code": "RS-19",
+    "ISBN": "9.79E+12",
+    "Title": "Toofan",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "RS-20",
+    "ISBN": "9.79E+12",
+    "Title": "Barahvin Raat",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "RS-21",
+    "ISBN": "9.79E+12",
+    "Title": "Macbeth",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 140"
+  },
+  {
+    "Code": "RS-22",
+    "ISBN": "9.79E+12",
+    "Title": "Bhool Bhulaiya",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "RS-23",
+    "ISBN": "9.79E+12",
+    "Title": "Nishfal Prem",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "RS-24",
+    "ISBN": "9.79E+12",
+    "Title": "Othello",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "RS-25",
+    "ISBN": "9.79E+12",
+    "Title": "Jaisa Tum Chaho",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 140"
+  },
+  {
+    "Code": "RS-26",
+    "ISBN": "9.79E+12",
+    "Title": "Shakespeare Ki Kahaniyaan",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "RS-27",
+    "ISBN": "9.79E+12",
+    "Title": "King Lear",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "RS-28",
+    "ISBN": "9.79E+12",
+    "Title": "Til Ka Tad",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "RS-29",
+    "ISBN": "9.79E+12",
+    "Title": "Parivartan",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 99"
+  },
+  {
+    "Code": "RS-30",
+    "ISBN": "9.79E+12",
+    "Title": "Romeo Juliet",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 140"
+  },
+  {
+    "Code": "RS-31",
+    "ISBN": "9.79E+12",
+    "Title": "Julius Caesar",
+    "Author": "Shakespeare",
+    "Binding": "PB",
+    "Price": "₹ 140"
+  },
+  {
+    "Code": "VG-01",
+    "ISBN": "9789384456740",
+    "Title": "DHRUVSWAMNI",
+    "Author": "JAI SHANKAR PRASAD",
+    "Binding": "PB",
+    "Price": "₹   90.00 "
+  },
+  {
+    "Code": "VG-02",
+    "ISBN": "9789384456801",
+    "Title": "AZAT SATRU",
+    "Author": "JAI SHANKAR PRASAD",
+    "Binding": "PB",
+    "Price": "₹   100.00 "
+  },
+  {
+    "Code": "VG-03",
+    "ISBN": "9789384456733",
+    "Title": "SKANDGUPT",
+    "Author": "JAI SHANKAR PRASAD",
+    "Binding": "PB",
+    "Price": "₹   110.00 "
+  },
+  {
+    "Code": "VG-04",
+    "ISBN": "9789384456795",
+    "Title": "CHANDRAGUPTA",
+    "Author": "JAI SHANKAR PRASAD",
+    "Binding": "PB",
+    "Price": "₹   125.00 "
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9789350723906",
+    "Title": "Dushman urf sainya Magan Pahalwani Mein",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "VP-02",
+    "ISBN": "8181432339",
+    "Title": "Gaon Ke Naon sasurar Mor Naon Damaad",
+    "Author": "Habib Tanvir",
+    "Binding": "HB",
+    "Price": "₹ 100"
+  },
+  {
+    "Code": "VP-03",
+    "ISBN": "9789352291304",
+    "Title": "Gaon Ke Naon sasurar Mor Naon Damaad",
+    "Author": "Habib Tanvir",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "VP-04",
+    "ISBN": "9789350723913",
+    "Title": "Hasya Ekanki",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "VP-05",
+    "ISBN": "9788181433138",
+    "Title": "Itihas Chakra",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "VP-06",
+    "ISBN": "9788181438232",
+    "Title": "Ji Jaisi Aapki Marzi",
+    "Author": "Nadira Zaheer Babbar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "VP-07",
+    "ISBN": "9789350728796",
+    "Title": "Mere Bhai Mere Dost",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-08",
+    "ISBN": "9788181438249",
+    "Title": "Operation Cloudburst",
+    "Author": "Nadira Zaheer Babbar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "VP-09",
+    "ISBN": "9789350728819",
+    "Title": "Panchtantra",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "VP-10",
+    "ISBN": "9789350008898",
+    "Title": "Saadar Aapka",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-11",
+    "ISBN": "9789350728734",
+    "Title": "Samrat Ashok",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "VP-12",
+    "ISBN": "9789350728826",
+    "Title": "Sanjh Sabera",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-13",
+    "ISBN": "9788181437716",
+    "Title": "Seeriyaa",
+    "Author": "Daya Prakash Sinha",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "VP-14",
+    "ISBN": "9788181432308",
+    "Title": "Zehrili Hawa",
+    "Author": "Rahul Varma Translated by Habib Tanvir",
+    "Binding": "HB",
+    "Price": "₹ 125"
+  }
+]

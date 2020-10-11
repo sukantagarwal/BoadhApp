@@ -1,0 +1,162 @@
+[
+  {
+    "Code": "PP-01",
+    "ISBN": "9788177211740",
+    "Title": "1000 Bhautik Vigyan Prashnottari",
+    "Author": "Sitaram Singh",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "PP-02",
+    "ISBN": "9789390101412",
+    "Title": "1000 Hindu Dharma Prashnottari",
+    "Author": "Pankaj Dixit",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "PP-03",
+    "ISBN": "8173154546",
+    "Title": "Swasthaya Prashnottari",
+    "Author": "Anil Agrawal",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-04",
+    "ISBN": "8173155518",
+    "Title": "1000 Film Prashnottari",
+    "Author": "Rajiv Ranjan",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-05",
+    "ISBN": "9789351866374",
+    "Title": "1000 Ramayana Prashnottari",
+    "Author": "Rajendra Pratap Singh",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-06",
+    "ISBN": "9789351868576",
+    "Title": "1000 Mahabharat Prashnottari",
+    "Author": "Rajendra Pratap Singh",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-07",
+    "ISBN": "9788173154911",
+    "Title": "1000 Computer Internet Prashnottari",
+    "Author": "Vinoy Bhushan",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-08",
+    "ISBN": "9789350484937",
+    "Title": "1000 Kalam Prashnottari",
+    "Author": "Anita Gaur",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-09",
+    "ISBN": "9789351867463",
+    "Title": "1000 Bhoogol Prashnottari",
+    "Author": "Sachin Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-10",
+    "ISBN": "9789351867470",
+    "Title": "1000 Itihas prashnottari",
+    "Author": "Sachin Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-11",
+    "ISBN": "9789351868941",
+    "Title": "1000 Hindi Sahitya Prashnottari",
+    "Author": "Dr. Kumud Sharma",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-12",
+    "ISBN": "9789386300874",
+    "Title": "1000 Ambedkar Prashnottari",
+    "Author": "Parijat Tripathi",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "PP-13",
+    "ISBN": "9789350482186",
+    "Title": "1000 Samvidhan Prashnottari",
+    "Author": "Anil Kumar Mishra",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "PP-14",
+    "ISBN": "9788177213058",
+    "Title": "1000 Ambedkar Prashnottari",
+    "Author": "Parijat Tripathi",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "PP-15",
+    "ISBN": "9788177211733",
+    "Title": "1000 Samvidhan Prashnottari",
+    "Author": "Anil Kumar Mishra",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "PP-16",
+    "ISBN": "9788177211757",
+    "Title": "1000 Rasayan Vigyan Prashnottari",
+    "Author": "Sitaram Singh",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "PP-17",
+    "ISBN": "9788177212754",
+    "Title": "1000 Itihas Prashnottari",
+    "Author": "Sachin Sinhal",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "PP-18",
+    "ISBN": "9788177212747",
+    "Title": "1000 Ganit Prashnottari",
+    "Author": "Dilip M. Salwi",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "PP-19",
+    "ISBN": "9788177211368",
+    "Title": "1000 Mahapurush Prashanottari",
+    "Author": "Rajendra Pratap Singh",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "PP-20",
+    "ISBN": "9788177213409",
+    "Title": "1000 Paryavaran Prashnottari",
+    "Author": "Dilip M. Salwi",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  }
+]

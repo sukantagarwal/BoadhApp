@@ -1,0 +1,962 @@
+[
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788183612180",
+    "Title": "Aadivasi : Sahitya Yatra",
+    "Author": "Ed. Ramanika Gupta",
+    "Binding": "HB",
+    "Price": "₹ 595"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "9788183615549",
+    "Title": "Aadivasi : Shaurya Evam Vidroh",
+    "Author": "Ed. Ramanika Gupta",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788183612173",
+    "Title": "Aadivasi : Vikas Se Visthapan",
+    "Author": "Ed. Ramanika Gupta",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788183612197",
+    "Title": "Aadivasi Kaun",
+    "Author": "Ramanika Gupta",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "RKG-05",
+    "ISBN": "9788126701599",
+    "Title": "Aadmi Ki Nigah Mein Aurat",
+    "Author": "Rajendra Yadav",
+    "Binding": "HB",
+    "Price": "₹ 695"
+  },
+  {
+    "Code": "RKG-06",
+    "ISBN": "9788126711239",
+    "Title": "Aadmi Ki Nigah Mein Aurat",
+    "Author": "Rajendra Yadav",
+    "Binding": "PB",
+    "Price": "₹ 299"
+  },
+  {
+    "Code": "RKG-07",
+    "ISBN": "9788180311154",
+    "Title": "Ateet Ke Chalchitra",
+    "Author": "Mahadevi Verma",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "RKG-08",
+    "ISBN": "9788180313042",
+    "Title": "Ateet Ke Chalchitra",
+    "Author": "Mahadevi Verma",
+    "Binding": "PB",
+    "Price": "₹ 105"
+  },
+  {
+    "Code": "RKG-09",
+    "ISBN": "9788126724390",
+    "Title": "Teen Sau Ramayane Evam Anya Nibandh",
+    "Author": "Sanjeev Kumar",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "RKG-10",
+    "ISBN": "9788126724413",
+    "Title": "Teen Sau Ramayane Evam Anya Nibandh",
+    "Author": "Sanjeev Kumar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RKG-11",
+    "ISBN": "9788126713448",
+    "Title": "Urdu Ka Arambhik Yug",
+    "Author": "Shamsurrahman Farooqui",
+    "Binding": "HB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "SM-01",
+    "ISBN": "9788171382521",
+    "Title": "Aawaz",
+    "Author": "Maitreyi Pushpa",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-02",
+    "ISBN": "9788171381913",
+    "Title": "Charcha Hamara",
+    "Author": "Maitreyi Pushpa",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-03",
+    "ISBN": "9788171381791",
+    "Title": "Khuli Khidkiyan",
+    "Author": "Maitreyi Pushpa",
+    "Binding": "",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-04",
+    "ISBN": "9788171382507",
+    "Title": "Mausam Badalne Ki Aahat",
+    "Author": "Anamika",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-05",
+    "ISBN": "9788171382514",
+    "Title": "Stree Vimarsh Ki Uttar Gatha",
+    "Author": "Anamika",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-06",
+    "ISBN": "9788171381128",
+    "Title": "Man Manjhne Ki Zaroorat",
+    "Author": "Anamika",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-07",
+    "ISBN": "9788171382859",
+    "Title": "Aurat : teen Tasviren",
+    "Author": "Sharad Singh",
+    "Binding": "",
+    "Price": "₹ 500.00"
+  },
+  {
+    "Code": "SM-08",
+    "ISBN": "9789380458090",
+    "Title": "Patton Mein Kaid Auratein",
+    "Author": "Sharad Singh",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-09",
+    "ISBN": "9788171382323",
+    "Title": "Aurat Ki Boli",
+    "Author": "Geetashree",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-10",
+    "ISBN": "9788171381449",
+    "Title": "Stree Akansha Ke Maanchitra",
+    "Author": "Geetashree",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-11",
+    "ISBN": "9788171381784",
+    "Title": "Bitia Hai Vishesh",
+    "Author": "Mridula Sinha",
+    "Binding": "",
+    "Price": "₹ 200.00"
+  },
+  {
+    "Code": "SM-12",
+    "ISBN": "9788171381296",
+    "Title": "Matra Deh Nahin Hai Aurat",
+    "Author": "Mridula Sinha",
+    "Binding": "",
+    "Price": "₹ 500.00"
+  },
+  {
+    "Code": "SM-13",
+    "ISBN": "9788188457724",
+    "Title": "Aadhunik Pariwar Main Stree",
+    "Author": "Kamla Singhvi",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-14",
+    "ISBN": "9788171381678",
+    "Title": "Stree Ka Aakash",
+    "Author": "Kamla Singhvi",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-15",
+    "ISBN": "9788188457472",
+    "Title": "Vishwa Ki Prasiddh Mahilayein",
+    "Author": "Asharani Vohra",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-16",
+    "ISBN": "9788188457243",
+    "Title": "Aurat: Kal Aaj aur Kal",
+    "Author": "Asharani Vohra",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-17",
+    "ISBN": "9788188457793",
+    "Title": "Haq Gadhti Aurat",
+    "Author": "Anju Dua Jemini",
+    "Binding": "",
+    "Price": "₹ 200.00"
+  },
+  {
+    "Code": "SM-18",
+    "ISBN": "9788188457465",
+    "Title": "Morche Par Stree",
+    "Author": "Anju Dua Jemini",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-19",
+    "ISBN": "9788171381685",
+    "Title": "Aazad Aurat : Kitni Aazad",
+    "Author": "Shailendra Sagar/Rajni Gupt",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-20",
+    "ISBN": "9788188457540",
+    "Title": "Muskarati Auratein",
+    "Author": "Shailendra Sagar/Rajni Gupt",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-21",
+    "ISBN": "9789380458175",
+    "Title": "Suno To Sahi",
+    "Author": "Rajni Gupt",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-22",
+    "ISBN": "9788171382361",
+    "Title": "Stree Mukti : Sangharsh Aur Itihas",
+    "Author": "Ramnika Gupta",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-23",
+    "ISBN": "9788188457618",
+    "Title": "Tahkhano Mein Band Aksh",
+    "Author": "Chitra Mudgal",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-24",
+    "ISBN": "9788171381135",
+    "Title": "Jeena Hai To Ladna Hoga",
+    "Author": "Brinda Karat",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-25",
+    "ISBN": "9788171380428",
+    "Title": "Aurat Ke Liye Aurat",
+    "Author": "Nasira Sharma",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-26",
+    "ISBN": "9788171381524",
+    "Title": "Aam Aurat : Zinda Sawal",
+    "Author": "Sudha Arora",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-27",
+    "ISBN": "9788171384181",
+    "Title": "Samkalin Stree Vimarsh",
+    "Author": "Kshama Sharma",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-28",
+    "ISBN": "9788171384297",
+    "Title": "Stree Nirmiti",
+    "Author": "Sujata",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-29",
+    "ISBN": "9788171382354",
+    "Title": "Stree Aur Sansex",
+    "Author": "Ranjana Jayaswal",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-30",
+    "ISBN": "9788188457830",
+    "Title": "Faisle ab Humare Hain",
+    "Author": "Ranjana Srivastava",
+    "Binding": "",
+    "Price": "₹ 500.00"
+  },
+  {
+    "Code": "SM-31",
+    "ISBN": "9789380458571",
+    "Title": "Chhamakchhallo Kahis…!",
+    "Author": "Vibha Rani",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-32",
+    "ISBN": "9788171382637",
+    "Title": "Apne Hone Ka Arth",
+    "Author": "Rekha Kastvar",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-33",
+    "ISBN": "9789380458359",
+    "Title": "Hindi Sahitya Ka Ojhal Nari Itihas (18571947)",
+    "Author": "Neerja Madhav",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-34",
+    "ISBN": "9788171382620",
+    "Title": "Bundelkhand Mein Stree",
+    "Author": "Ed. Anand Prakash Tripathi",
+    "Binding": "",
+    "Price": "₹ 695.00"
+  },
+  {
+    "Code": "SM-35",
+    "ISBN": "9788171382415",
+    "Title": "Stree Vimarsh Ka Kaljai Itihas",
+    "Author": "Ed. Sanjay Garg",
+    "Binding": "",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-36",
+    "ISBN": "9789380458281",
+    "Title": "Stree Asmita : Shayaa Se Sarvochch Adalat Tak",
+    "Author": "Seema Dixit",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-37",
+    "ISBN": "9788171381173",
+    "Title": "Prem Ke Saath Pitai",
+    "Author": "Lavleen",
+    "Binding": "",
+    "Price": "₹ 200.00"
+  },
+  {
+    "Code": "SM-38",
+    "ISBN": "9788171381555",
+    "Title": "Aadhi Dunia Ka Sach",
+    "Author": "Kumud Sharma",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-39",
+    "ISBN": "9788171380947",
+    "Title": "Aurat Apne Liye",
+    "Author": "Lata Sharma",
+    "Binding": "",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-40",
+    "ISBN": "9788171380237",
+    "Title": "Hum Sabhya Auratein (Awarded)",
+    "Author": "Manisha",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-41",
+    "ISBN": "9788188457649",
+    "Title": "Aurat : Itihas Racha Hai Tumne",
+    "Author": "Kusum Tripathi",
+    "Binding": "",
+    "Price": "₹ 360.00"
+  },
+  {
+    "Code": "SM-42",
+    "ISBN": "9788188457687",
+    "Title": "Mujhe Janam Do Maa",
+    "Author": "Santosh Srivastava",
+    "Binding": "",
+    "Price": "₹ 595.00"
+  },
+  {
+    "Code": "SM-43",
+    "ISBN": "9788188457342",
+    "Title": "Stree Asmita Ke Prashan",
+    "Author": "Subhash Setia",
+    "Binding": "",
+    "Price": "₹ 150.00"
+  },
+  {
+    "Code": "SM-44",
+    "ISBN": "9789380458410",
+    "Title": "Amarkant : Ek Mulyankan",
+    "Author": "Ed. Ravindra Kaliya",
+    "Binding": "",
+    "Price": "₹ 800.00"
+  },
+  {
+    "Code": "SM-45",
+    "ISBN": "9789380458878",
+    "Title": "Vishwanath Prasad Tiwari : Ek Mulyankan",
+    "Author": "Rewati Raman",
+    "Binding": "",
+    "Price": "₹ 695.00"
+  },
+  {
+    "Code": "SM-46",
+    "ISBN": "9788193674901",
+    "Title": "Aacharya Ramchandra Shukla : Ek Mulyankan",
+    "Author": "Ed. Dinesh Kumar",
+    "Binding": "",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-47",
+    "ISBN": "9789380458939",
+    "Title": "Muktibodh : Ek Mulyankan",
+    "Author": "Ed. Dinesh Kumar",
+    "Binding": "",
+    "Price": "₹ 595.00"
+  },
+  {
+    "Code": "SM-48",
+    "ISBN": "9789380458779",
+    "Title": "Narendra kohali : Ek Mulyankan",
+    "Author": "Ed. Prem Janmejay",
+    "Binding": "",
+    "Price": "₹ 595.00"
+  },
+  {
+    "Code": "SM-49",
+    "ISBN": "9789380458861",
+    "Title": "Krishna Sobati : Ek Mulyankan",
+    "Author": "Ed. Chabil Kumar Mehar",
+    "Binding": "",
+    "Price": "₹ 695.00"
+  },
+  {
+    "Code": "SM-50",
+    "ISBN": "9789380458250",
+    "Title": "Chitra Mudgal : Ek Mulyankan",
+    "Author": "K. Vanaja",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-51",
+    "ISBN": "9788188457915",
+    "Title": "Chitra Mudgal ke Katha Sahitya me Sangharsh aur Sanchetna",
+    "Author": "Anju Dua Jaimini",
+    "Binding": "",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-52",
+    "ISBN": "9789380458137",
+    "Title": "Nasira Sharma : Ek Mulyankan",
+    "Author": "Ed. M. Feroz Ahmed",
+    "Binding": "",
+    "Price": "₹ 900.00"
+  },
+  {
+    "Code": "SM-53",
+    "ISBN": "9789380458526",
+    "Title": "Anamika : Ek Mulyankan",
+    "Author": "Ed. Abhishek Kashyap",
+    "Binding": "",
+    "Price": "₹ 900.00"
+  },
+  {
+    "Code": "SM-54",
+    "ISBN": "9789380458120",
+    "Title": "Maitrai Pushpa : Tathya Aur Satya",
+    "Author": "Ed. Daya Dixit",
+    "Binding": "",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-55",
+    "ISBN": "9789380458977",
+    "Title": "Hindi Dalit Aatmakathayen : Ek Mulyankan    ",
+    "Author": "Punita Jain",
+    "Binding": "",
+    "Price": "₹ 795.00"
+  },
+  {
+    "Code": "SM-56",
+    "ISBN": "9788171383801",
+    "Title": "Hindi Upanyas aur Janjatiya Jeevan   ",
+    "Author": "Shivdatta Wavalkar",
+    "Binding": "",
+    "Price": "₹ 795.00"
+  },
+  {
+    "Code": "SM-57",
+    "ISBN": "9788171382699",
+    "Title": "Ve Hume Badal Rahe Hain…",
+    "Author": "Rajendra Yadav",
+    "Binding": "",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-58",
+    "ISBN": "9788171380930",
+    "Title": "Premchand Ki Virasat",
+    "Author": "Rajendra Yadav",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-59",
+    "ISBN": "9788171381722",
+    "Title": "Mukhyadhara Aur Dalit Sahitya",
+    "Author": "Omprakash Valmiki",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-60",
+    "ISBN": "9789380459066",
+    "Title": "Dalit Sahitya Ke Aadhar Tatva",
+    "Author": "Harpal Singh 'Arush'",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-61",
+    "ISBN": "9788171382774",
+    "Title": "Aadivasi Asmita Ka Sankat",
+    "Author": "Ramnika Gupta",
+    "Binding": "",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-62",
+    "ISBN": "9788171382767",
+    "Title": "Aadivasi Lekhan : Ek Ubharti Chetana",
+    "Author": "Ramnika Gupta",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-63",
+    "ISBN": "9788188457885",
+    "Title": "Aadivasi Samaj aur Sahitya",
+    "Author": "Ed. Ramnika Gupta",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-64",
+    "ISBN": "9788188457892",
+    "Title": "Vimukt Ghumantu Aadivasion ka Mukti Sangharsh",
+    "Author": "Ed. Ramnika Gupta",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-65",
+    "ISBN": "9788188060733",
+    "Title": "Hindi Ghazal : Udbhav Aur Vikas",
+    "Author": "Rohitasva Asthana",
+    "Binding": "",
+    "Price": "₹ 800.00"
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9789350008980",
+    "Title": "Ajneya:Kathakar Aur Vicharak",
+    "Author": "Vijaymohan Singh",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "VP-02",
+    "ISBN": "9789350001110",
+    "Title": "Akkarmashi",
+    "Author": "Sharan Kumar Limbale",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-03",
+    "ISBN": "9789350001110",
+    "Title": "Akkarmashi",
+    "Author": "Sharan Kumar Limbale",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-04",
+    "ISBN": "9788181431820",
+    "Title": "Alochana Ki Pahali Kitab",
+    "Author": "Vishnu Khare",
+    "Binding": "HB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "VP-05",
+    "ISBN": "9788181439857",
+    "Title": "Aurat Ka Koi Desh Nahin",
+    "Author": "TASLIMA NASRIN Translated by Sushil Gupta",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "VP-06",
+    "ISBN": "9789389563344",
+    "Title": "Bharat Ki Awdharna",
+    "Author": "Shambhunath",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "VP-07",
+    "ISBN": "9789388684453",
+    "Title": "Bharat Ki Awdharna",
+    "Author": "Shambhunath",
+    "Binding": "PB",
+    "Price": "₹ 299"
+  },
+  {
+    "Code": "VP-08",
+    "ISBN": "9789388684309",
+    "Title": "Bhartiya Sahitya",
+    "Author": "Complied by Dr. R.I. Santhi & Dr. Prakash A.",
+    "Binding": "HB",
+    "Price": "₹ 595"
+  },
+  {
+    "Code": "VP-09",
+    "ISBN": "9789386799340",
+    "Title": "Bhartiya Samvidhan : Rashtra Ki Aadharshila",
+    "Author": "Translator Naresh Goswami",
+    "Binding": "HB",
+    "Price": "₹ 895"
+  },
+  {
+    "Code": "VP-10",
+    "ISBN": "9789350729656",
+    "Title": "Bhawishya ka Stri Vimarsh",
+    "Author": "Mamta Kaaliya",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "VP-11",
+    "ISBN": "9789389012590",
+    "Title": "Bhishm Sahani : Sadagi Ka Saundaryshastra",
+    "Author": "Edited by Hriyash Rai",
+    "Binding": "PB",
+    "Price": "₹ 399"
+  },
+  {
+    "Code": "VP-12",
+    "ISBN": "9789389563368",
+    "Title": "Bhishm Sahani : Sadagi Ka Saundaryshastra",
+    "Author": "Edited by Hriyash Rai",
+    "Binding": "HB",
+    "Price": "₹ 695"
+  },
+  {
+    "Code": "VP-13",
+    "ISBN": "9789350001158",
+    "Title": "Bhishm Sahani:Upanyas Sahitya",
+    "Author": "Vivek Dwivedi",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "VP-14",
+    "ISBN": "9788181430458",
+    "Title": "Chuninda Ashaar",
+    "Author": "Vidya Sinha",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "VP-15",
+    "ISBN": "9789389563665",
+    "Title": "Dalit Aur Prakrati",
+    "Author": "Mukul Sharma",
+    "Binding": "PB",
+    "Price": "₹ 399"
+  },
+  {
+    "Code": "VP-16",
+    "ISBN": "9789389563696",
+    "Title": "Dalit Aur Prakrati",
+    "Author": "Mukul Sharma",
+    "Binding": "HB",
+    "Price": "₹ 595"
+  },
+  {
+    "Code": "VP-17",
+    "ISBN": "9788181438706",
+    "Title": "Dalit Chintan Ka Vikas",
+    "Author": "Dr. Dharamveer",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "VP-18",
+    "ISBN": "9788181436344",
+    "Title": "Dalit civil Kanoon",
+    "Author": "Dr. Dharamveer",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-19",
+    "ISBN": "9788170555056",
+    "Title": "Guftgoo",
+    "Author": "Sumat Prakash'Shauq",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-20",
+    "ISBN": "9789352292158",
+    "Title": "Guftgoo",
+    "Author": "Sumat Prakash'Shauq",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "VP-21",
+    "ISBN": "9788181439093",
+    "Title": "Hindi Aalochana : Itihas Aur Siddhanta",
+    "Author": "Yogendra Pratap Singh",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "VP-22",
+    "ISBN": "9789389563389",
+    "Title": "Hindi Bhasha Ki Parampara : Prayog Aur Sambhavnayen",
+    "Author": "Chief Editor : Dayanidhi Mishra/Editor Udayan Mishra/Prakash Uday",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "VP-23",
+    "ISBN": "9789389563399",
+    "Title": "Hindi Ka Kathetar Gadya : Parampara Aur Prayog",
+    "Author": "Chief Editor : Dayanidhi Mishra/Editor Udayan Mishra/Prakash Uday",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "VP-24",
+    "ISBN": "9789352294794",
+    "Title": "Hindi Kavya Mein Pragativad Aur Anya Nibandh",
+    "Author": "Vijayshankar Malla",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "VP-25",
+    "ISBN": "9788181439833",
+    "Title": "Jan Jan Ke Kavi Tulsidas",
+    "Author": "Yogendra Pratap Singh",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-26",
+    "ISBN": "9789389563528",
+    "Title": "Jan-Jan Ke Ram",
+    "Author": "Vidyaniwas Mishra",
+    "Binding": "PB",
+    "Price": "₹ 199"
+  },
+  {
+    "Code": "VP-27",
+    "ISBN": "9789389563351",
+    "Title": "Kahani : Vichardhara Aur Yatharth",
+    "Author": "Vaibhav Singh",
+    "Binding": "HB",
+    "Price": "₹ 299"
+  },
+  {
+    "Code": "VP-28",
+    "ISBN": "9789389012729",
+    "Title": "Kinnar Gatha",
+    "Author": "Sheela Daga",
+    "Binding": "PB",
+    "Price": "₹ 199"
+  },
+  {
+    "Code": "VP-29",
+    "ISBN": "9789389012873",
+    "Title": "Kinnar Gatha",
+    "Author": "Sheela Daga",
+    "Binding": "HB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "VP-30",
+    "ISBN": "9789350001547",
+    "Title": "Meera Ka Kavya",
+    "Author": "Vishwanath Tripathi",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-31",
+    "ISBN": "9789350001059",
+    "Title": "Nagarjun Ka RachanaSansar",
+    "Author": "Vijay Bahadur Singh",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "VP-32",
+    "ISBN": "9788170557838",
+    "Title": "Nagarjun ka Upanyas Sahitya Samsamyik Sandharbh",
+    "Author": "Surendra Kumar Yadav",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "VP-33",
+    "ISBN": "9788181432087",
+    "Title": "Ramdarash Mishra:Ek Antaryatra",
+    "Author": "Prakash Manu",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "VP-34",
+    "ISBN": "9789350004913",
+    "Title": "Ramvilas Sharma Ka Lokpaksha",
+    "Author": "Vishnuchandra Sharma",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "VP-35",
+    "ISBN": "9789389012514",
+    "Title": "Samay Srijan",
+    "Author": "Vandna Singh",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "VP-36",
+    "ISBN": "9789389563719",
+    "Title": "Sansaar Mein Nirmal Verma",
+    "Author": "Edited by Gagan Gill",
+    "Binding": "PB",
+    "Price": "₹ 499"
+  },
+  {
+    "Code": "VP-37",
+    "ISBN": "9789388434225",
+    "Title": "Sansaar Mein Nirmal Verma",
+    "Author": "Edited by Gagan Gill",
+    "Binding": "HB",
+    "Price": "₹ 795"
+  },
+  {
+    "Code": "VP-38",
+    "ISBN": "9789350000458",
+    "Title": "Shami Kagaz",
+    "Author": "Nasera Sharma",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "VP-39",
+    "ISBN": "9789389563412",
+    "Title": "Shiksha/Darshan Aur Samaj : Samkaleen Vimarsh",
+    "Author": "Chief Editor : Dayanidhi Mishra/Editor Udayan Mishra/Prakash Uday",
+    "Binding": "HB",
+    "Price": "₹ 695"
+  },
+  {
+    "Code": "VP-40",
+    "ISBN": "9789389563801",
+    "Title": "Stri Ki Nazar Mein Reetikal",
+    "Author": "Edited by Mukesh Garg",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "VP-41",
+    "ISBN": "9789389563917",
+    "Title": "Til Bhar Jagah Nahin",
+    "Author": "Chitra Mudgal",
+    "Binding": "PB",
+    "Price": "₹ 199"
+  },
+  {
+    "Code": "VP-42",
+    "ISBN": "9789350004906",
+    "Title": "Trilochan Ka Kavi Karm",
+    "Author": "Vishnuchandra Sharma",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "VP-43",
+    "ISBN": "9788181435767",
+    "Title": "Upanyas : Samaya Aur Samvedana",
+    "Author": "Vijay Bahadur Singh",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "VP-44",
+    "ISBN": "9789388494607",
+    "Title": "Vishwakavya Aur Jaishankar Prasad",
+    "Author": "Premshankar",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  }
+]

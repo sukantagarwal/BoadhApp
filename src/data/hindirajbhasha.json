@@ -1,0 +1,418 @@
+[
+  {
+    "Code": "PP-01",
+    "ISBN": "9789352669592",
+    "Title": "Saral Hindi",
+    "Author": "Ramvachan Sharma",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "PP-02",
+    "ISBN": "9789352669608",
+    "Title": "Subodh Hindi",
+    "Author": "Ramvachan Sharma",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "PP-03",
+    "ISBN": "9789352669615",
+    "Title": "Sugam Hindi",
+    "Author": "Ramvachan Sharma",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "PP-04",
+    "ISBN": "9789352669622",
+    "Title": "Sahaj Hindi",
+    "Author": "Ramvachan Sharma",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "PP-05",
+    "ISBN": "9789352669639",
+    "Title": "Achchhi Hindi",
+    "Author": "Ramvachan Sharma",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "PP-06",
+    "ISBN": "9789351867623",
+    "Title": "Hindi Sahitya Ka Itihas",
+    "Author": "Acharya Ramchandra Shukla",
+    "Binding": "PB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "PP-07",
+    "ISBN": "9789387980617",
+    "Title": "Vyavharik Anuvad",
+    "Author": "N.E.Vishwanath Iyer",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "PP-08",
+    "ISBN": "9789353226817",
+    "Title": "Manak Hindi Ka Swaroop",
+    "Author": "Bhola Nath Tiwari",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788171198016",
+    "Title": "Manak Hindi Ka Swarup",
+    "Author": "Kalanath Shastri",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "9788183610193",
+    "Title": "Manak Hindi Ka Vyavharparak Vyakaran",
+    "Author": "Ramesh Chandra Mahrotra",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788171194698",
+    "Title": "Manak Hindi Ke Shuddh Prayog : Vol. 1",
+    "Author": "Ramesh Chandra Mahrotra",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788171194728",
+    "Title": "Manak Hindi Ke Shuddh Prayog : Vol. 3",
+    "Author": "Ramesh Chandra Mahrotra",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "RKG-05",
+    "ISBN": "9788171194711",
+    "Title": "Manak Hindi Ke Shuddh Prayog : Vol. 4",
+    "Author": "Ramesh Chandra Mahrotra",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "RKG-06",
+    "ISBN": "9788183612258",
+    "Title": "Vakya Sanrachana Aur Vishleshan : Naye Pratiman",
+    "Author": "Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "RKG-07",
+    "ISBN": "9788180318047",
+    "Title": "Vishwa Patal Par Hindi",
+    "Author": "Surya Prakash Dixit",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "RS-01",
+    "ISBN": "9.79E+12",
+    "Title": "Pramanik Aalekhan Aur Tippan",
+    "Author": "Viraj",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-02",
+    "ISBN": "9.79E+12",
+    "Title": "Vyavaharik Hindi Shuddh Prayog",
+    "Author": "Prakash/Om",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "RS-03",
+    "ISBN": "9.79E+12",
+    "Title": "Sanskrit Swayam Shikshak",
+    "Author": "Satvlekar/Shripad D.",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "VG-01",
+    "ISBN": "9789384456511",
+    "Title": "SUGAM HINDI VYAKARAN",
+    "Author": "SURENDER TIWARI",
+    "Binding": "PB",
+    "Price": "₹   150.00 "
+  },
+  {
+    "Code": "SM-01",
+    "ISBN": "9788171380817",
+    "Title": "Karyalayee Anuvad Nideshika",
+    "Author": "Gopinath Srivastava",
+    "Binding": "HB",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-02",
+    "ISBN": "9788171380800",
+    "Title": "Hindi Karyalaya Nideshika",
+    "Author": "Gopinath Srivastava",
+    "Binding": "HB",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-03",
+    "ISBN": "9788188457069",
+    "Title": "Hindi Yug Yug Ki Bhasha",
+    "Author": "Ramesh Chandra",
+    "Binding": "HB",
+    "Price": "₹ 595.00"
+  },
+  {
+    "Code": "SM-04",
+    "ISBN": "9788188457328",
+    "Title": "Devnagri Lipi Aur Rajbhasha Hindi",
+    "Author": "Ramesh Chandra",
+    "Binding": "HB",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-05",
+    "ISBN": "9788188457052",
+    "Title": "Rajbhasha Hindi Aur Takniki Anuvad",
+    "Author": "Ramesh Chandra",
+    "Binding": "HB",
+    "Price": "₹ 400.00"
+  },
+  {
+    "Code": "SM-06",
+    "ISBN": "9788188060900",
+    "Title": "Samayik Prayojanmulak Hindi",
+    "Author": "Prithvinath Pandey",
+    "Binding": "HB",
+    "Price": "₹ 900.00"
+  },
+  {
+    "Code": "SM-07",
+    "ISBN": "9789380459059",
+    "Title": "Aadhunik Hindi Vyakaran",
+    "Author": "Prithvinath Pandey",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-08",
+    "ISBN": "9789380459042",
+    "Title": "Shudh Hindi : Kaise Bolein/Kaise Likhe",
+    "Author": "Prithvinath Pandey",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9788181434920",
+    "Title": "Bolchal Ki Hindi Aur Sanchar",
+    "Author": "Dr. Madhu Dhawan",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-02",
+    "ISBN": "9789350724644",
+    "Title": "Hindi : Ek Maulik Vyakaran",
+    "Author": "Rama Kant Agnihotri",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "VP-03",
+    "ISBN": "9789350007150",
+    "Title": "Hindi Aalekhan",
+    "Author": "Ramprasad Kichlu",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "VP-04",
+    "ISBN": "9788170553878",
+    "Title": "Hindi Bhasha",
+    "Author": "Mahavir Prasad Dwivedi",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-05",
+    "ISBN": "9788170554998",
+    "Title": "Hindi Bhasha : Atteet Se Aaj Tak",
+    "Author": "Dr. Vijay Agarwal",
+    "Binding": "HB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "VP-06",
+    "ISBN": "9788181436160",
+    "Title": "Hindi Bhasha Ka Itihas",
+    "Author": "Dr. Bholanath Tiwari",
+    "Binding": "HB",
+    "Price": "₹ 695"
+  },
+  {
+    "Code": "VP-07",
+    "ISBN": "9788170551744",
+    "Title": "Hindi Ki Prakriti Aur Shuddh Prayog",
+    "Author": "Dr. Brajmohan",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-08",
+    "ISBN": "9789350004067",
+    "Title": "Hindi Sahitya Ka Aadikal",
+    "Author": "Hazariprasad Dwivedi",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-09",
+    "ISBN": "9789350004036",
+    "Title": "Hindi Sahitya Ka Ateet -1",
+    "Author": "Acharya Vishwanath Prasad Mishra",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "VP-10",
+    "ISBN": "9788181436078",
+    "Title": "Hindi Sahitya Ka Ateet- 2",
+    "Author": "Acharya Vishwanath Prasad Mishra",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "VP-11",
+    "ISBN": "9789350004586",
+    "Title": "Hindi Sahitya Ka Itihas",
+    "Author": "Ramchandra Shukla",
+    "Binding": "HB",
+    "Price": "₹ 695"
+  },
+  {
+    "Code": "VP-12",
+    "ISBN": "9789350728116",
+    "Title": "Hindi Sahitya Ka Itihas",
+    "Author": "Ramchandra Shukla",
+    "Binding": "PB",
+    "Price": "₹ 160"
+  },
+  {
+    "Code": "VP-13",
+    "ISBN": "9789350000380",
+    "Title": "Hindi SankshipatLekhan",
+    "Author": "Ramprasad Kichlu",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "VP-14",
+    "ISBN": "9788170553441",
+    "Title": "Hindi Vyakaran Vimarsh",
+    "Author": "Dr. Tejpal Choudhary",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "VP-15",
+    "ISBN": "9789350007037",
+    "Title": "Kis Bhoogol Mein Kis Sapane Mein",
+    "Author": "Ashok Vajpeyi",
+    "Binding": "HB",
+    "Price": "₹ 795"
+  },
+  {
+    "Code": "VP-16",
+    "ISBN": "9789350008096",
+    "Title": "Maanak Hindi",
+    "Author": "Braj Mohan",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "VP-17",
+    "ISBN": "9788181436047",
+    "Title": "Madhya Aur Poorvi Europe Mai Hindi",
+    "Author": "Dr. Imre Bangha",
+    "Binding": "HB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "VP-18",
+    "ISBN": "9789350002148",
+    "Title": "Mugdhbodh Hindi Vyakaran",
+    "Author": "Krishnnarayan Prasad 'Magadh'",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "VP-19",
+    "ISBN": "9788170552567",
+    "Title": "Prashasanik Hindi : Aitihasik Sandarbha",
+    "Author": "Dr. Mahesh Chandra Gupta",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "VP-20",
+    "ISBN": "9788170554158",
+    "Title": "Shailee Aur Shailee Vishleshan",
+    "Author": "Pandey Shashi Bhushan 'Shitanshu'",
+    "Binding": "HB",
+    "Price": "₹ 750"
+  },
+  {
+    "Code": "VP-21",
+    "ISBN": "9789350008119",
+    "Title": "Visheshan Prayog",
+    "Author": "Dr. Braj Mohan",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "VP-22",
+    "ISBN": "9789350005088",
+    "Title": "Vishyanishth Evam Vastunishth Hindi : Kal Aur Aaj",
+    "Author": "Kedar Singh",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "VP-23",
+    "ISBN": "9788181439239",
+    "Title": "VyakaranSahchar",
+    "Author": "Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 275"
+  },
+  {
+    "Code": "VP-24",
+    "ISBN": "9789350004609",
+    "Title": "Vyavsayik Hindi",
+    "Author": "Rajendra Kumar Pandey",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "VP-25",
+    "ISBN": "9789388434195",
+    "Title": "Wah Kaun Thi",
+    "Author": "Sanjeev",
+    "Binding": "PB",
+    "Price": "₹ 200"
+  }
+]

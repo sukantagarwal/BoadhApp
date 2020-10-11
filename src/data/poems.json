@@ -1,0 +1,972 @@
+[
+ {
+   "Code": "PP-01",
+   "ISBN": "9789390101122",
+   "Title": "Kabeer Dohawali",
+   "Author": "Neelotpal",
+   "Binding": "PB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "PP-02",
+   "ISBN": "9789380183435",
+   "Title": "Ek Aur Madhushala",
+   "Author": "Dr. Suresh Prasad",
+   "Binding": "HB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "PP-03",
+   "ISBN": "9789386871107",
+   "Title": "Chune Hue Rashtriya Geet",
+   "Author": "Dr. Meena Agrawal",
+   "Binding": "HB",
+   "Price": 500,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-01",
+   "ISBN": "9788171782895",
+   "Title": "Anamika",
+   "Author": "Suryakant Tripathi 'Nirala'",
+   "Binding": "HB",
+   "Price": 450,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-02",
+   "ISBN": "9788126719839",
+   "Title": "Ghav Karen Gambhir",
+   "Author": "Sharad Joshi",
+   "Binding": "HB",
+   "Price": 395,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-03",
+   "ISBN": "9788180311215",
+   "Title": "Nirja",
+   "Author": "Mahadevi Verma",
+   "Binding": "HB",
+   "Price": 175,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-04",
+   "ISBN": "9788180313004",
+   "Title": "Nirja",
+   "Author": "Mahadevi Verma",
+   "Binding": "PB",
+   "Price": 95,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-05",
+   "ISBN": "9788183618526",
+   "Title": "Paaji Nazmein",
+   "Author": "Gulzar",
+   "Binding": "HB",
+   "Price": 250,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-06",
+   "ISBN": "9788183618700",
+   "Title": "Paaji Nazmein",
+   "Author": "Gulzar",
+   "Binding": "PB",
+   "Price": 125,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-07",
+   "ISBN": "9788126705092",
+   "Title": "Parimal",
+   "Author": "Suryakant Tripathi 'Nirala'",
+   "Binding": "HB",
+   "Price": 400,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-08",
+   "ISBN": "9788126706044",
+   "Title": "Pratinidhi Kavitayen : Nagarjun",
+   "Author": "Nagarjun",
+   "Binding": "PB",
+   "Price": 75,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-09",
+   "ISBN": "9788171789634",
+   "Title": "Pratinidhi Kavitayen : Raghuvir Sahay",
+   "Author": "Raghuvir Sahay",
+   "Binding": "PB",
+   "Price": 75,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-10",
+   "ISBN": "9788126724123",
+   "Title": "Pratinidhi kavitayen : Rajesh Joshi",
+   "Author": "Rajesh Joshi",
+   "Binding": "PB",
+   "Price": 75,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-11",
+   "ISBN": "9788180313394",
+   "Title": "Saptaparna",
+   "Author": "Mahadevi Verma",
+   "Binding": "HB",
+   "Price": 400,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RKG-12",
+   "ISBN": "9788126728602",
+   "Title": "Zid",
+   "Author": "Rajesh Joshi",
+   "Binding": "HB",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-01",
+   "ISBN": "9788170281863",
+   "Title": "Kurukshetra",
+   "Author": "Dinkar",
+   "Binding": "HB",
+   "Price": 105,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-02",
+   "ISBN": "9788170282488",
+   "Title": "Chuni Hui Kavitayen",
+   "Author": "Agyeya",
+   "Binding": "PB",
+   "Price": 245,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-03",
+   "ISBN": "9788170282914",
+   "Title": "Nisha Nimantran",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-04",
+   "ISBN": "9788170283140",
+   "Title": "Meri Shreshtha Kavitayen",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 495,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-05",
+   "ISBN": "9788170283355",
+   "Title": "Kya Khoya Kya Paya",
+   "Author": "Vajpayee/ Atal Bihari",
+   "Binding": "HB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-06",
+   "ISBN": "9788170283447",
+   "Title": "Madhushala",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 135,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-07",
+   "ISBN": "9788170283560",
+   "Title": "Madhubala",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 145,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-08",
+   "ISBN": "9788170284253",
+   "Title": "Khaiyam Ki Madhushala",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 145,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-09",
+   "ISBN": "9788170284260",
+   "Title": "Madhukalash",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 160,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-10",
+   "ISBN": "9788170284949",
+   "Title": "Deepgeet",
+   "Author": "Verma/ Mahadevi",
+   "Binding": "HB",
+   "Price": 175,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-11",
+   "ISBN": "9788170284956",
+   "Title": "Neelambara",
+   "Author": "Verma/ Mahadevi",
+   "Binding": "HB",
+   "Price": 175,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-12",
+   "ISBN": "9788170284963",
+   "Title": "Aatmika",
+   "Author": "Verma/ Mahadevi",
+   "Binding": "HB",
+   "Price": 175,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-13",
+   "ISBN": "9788170287810",
+   "Title": "Satrangini",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-14",
+   "ISBN": "9788170288091",
+   "Title": "Milan Yamini",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "PB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-15",
+   "ISBN": "9788170287863",
+   "Title": "Milan Yamini",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "HB",
+   "Price": 225,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-16",
+   "ISBN": "9788170287025",
+   "Title": "Nisha Nimantran",
+   "Author": "Bachchan/ Harivansh Rai",
+   "Binding": "PB",
+   "Price": 195,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "RS-17",
+   "ISBN": "9789350642269",
+   "Title": "Kamayani",
+   "Author": "Prasad/ Jaishankar",
+   "Binding": "PB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "SM-01",
+   "ISBN": "9788188060740",
+   "Title": "Bahurangi Hindi Ghazalein",
+   "Author": "Ed. Rohitasva Asthana",
+   "Binding": "",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "SM-02",
+   "ISBN": "9788188060757",
+   "Title": "Indradhanushi Hindi Ghazalein",
+   "Author": "Ed.Rohitasva Asthana",
+   "Binding": "",
+   "Price": 250,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "SM-03",
+   "ISBN": "9788188060870",
+   "Title": "Navintam Hindi Ghazalein",
+   "Author": "Ed.Rohitasva Asthana",
+   "Binding": "",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "SM-04",
+   "ISBN": "9788188060887",
+   "Title": "Ghazal-Saptak",
+   "Author": "Ed. Gopalkrishna Kaul",
+   "Binding": "",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-01",
+   "ISBN": "9789352291014",
+   "Title": "Aaj Ke Gham Ke Naam",
+   "Author": "Faiz Ahmed Faiz & Edited by Shahryar/ Mehtab Haidar Naqvi",
+   "Binding": "PB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-02",
+   "ISBN": "9788170557654",
+   "Title": "Aankhon Bhar Aakash",
+   "Author": "Nida Fazli",
+   "Binding": "HB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-03",
+   "ISBN": "9789352291021",
+   "Title": "Aankhon Bhar Aakash",
+   "Author": "Nida Fazli",
+   "Binding": "PB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-04",
+   "ISBN": "9789350000243",
+   "Title": "Aasman Se Aage",
+   "Author": "Rajesh Reddy",
+   "Binding": "HB",
+   "Price": 295,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-05",
+   "ISBN": "9789350001769",
+   "Title": "Aawaz Chali Aati Hai",
+   "Author": "Shaz Tamakanat Edited by Shashi Narayan Swadheel",
+   "Binding": "HB",
+   "Price": 275,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-06",
+   "ISBN": "9789350009291",
+   "Title": "Aese Bhee Ham Kya Aese Bhee Tum Kya",
+   "Author": "Nagarjun",
+   "Binding": "HB",
+   "Price": 125,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-07",
+   "ISBN": "9789389563337",
+   "Title": "Akelepan Mein Bhee Ishq Soofi Hai",
+   "Author": "Durga Prasad Gupt",
+   "Binding": "HB",
+   "Price": 199,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-08",
+   "ISBN": "9788181436818",
+   "Title": "Ankhon Ankhon Rahe",
+   "Author": "Saeed Ahmed & Translated by Mirza A. B. Baig",
+   "Binding": "HB",
+   "Price": 195,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-09",
+   "ISBN": "9789352291076",
+   "Title": "Ankhon Ankhon Rahe",
+   "Author": "Waseem Bareilavi",
+   "Binding": "PB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-10",
+   "ISBN": "9789389563887",
+   "Title": "Aparichit Ujale",
+   "Author": "Prabha Khetan",
+   "Binding": "PB",
+   "Price": 199,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-11",
+   "ISBN": "9788170555575",
+   "Title": "Basheer Badra",
+   "Author": "Nida Fazli",
+   "Binding": "HB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-12",
+   "ISBN": "9789352291120",
+   "Title": "Basheer Badra",
+   "Author": "Nida Fazli",
+   "Binding": "PB",
+   "Price": 125,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-13",
+   "ISBN": "9789350000069",
+   "Title": "Chal Gori Dohapuram",
+   "Author": "Bekal Utsahi & Edited by Dixit Dankouri",
+   "Binding": "HB",
+   "Price": 250,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-14",
+   "ISBN": "9789352291229",
+   "Title": "Dayron Mein Phaili Lakeer",
+   "Author": "Kishwar Naheed Translated by Pradeep 'Sahil'",
+   "Binding": "PB",
+   "Price": 100,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-15",
+   "ISBN": "9789389915082",
+   "Title": "Ek Bhaashaa Huaa Karati Hai",
+   "Author": "Uday Prakash",
+   "Binding": "HB",
+   "Price": 299,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-16",
+   "ISBN": "9789389915082",
+   "Title": "Ek Bhaashaa Huaa Karati Hai",
+   "Author": "Uday Prakash",
+   "Binding": "PB",
+   "Price": 199,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-17",
+   "ISBN": "9789389563474",
+   "Title": "Facebukiya Love",
+   "Author": "Vinod Bhardwaj",
+   "Binding": "HB",
+   "Price": 225,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-18",
+   "ISBN": "9789350002285",
+   "Title": "Gaagar Mein Saagar ( Set 3 volume)",
+   "Author": "Rajesh Sharma",
+   "Binding": "HB",
+   "Price": 1500,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-19",
+   "ISBN": "9789352291274",
+   "Title": "Gaagar Mein Saagar1",
+   "Author": "Rajesh Sharma",
+   "Binding": "PB",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-20",
+   "ISBN": "9789352291281",
+   "Title": "Gaagar Mein Saagar2",
+   "Author": "Rajesh Sharma",
+   "Binding": "PB",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-21",
+   "ISBN": "9789352291298",
+   "Title": "Gaagar Mein Saagar3",
+   "Author": "Rajesh Sharma",
+   "Binding": "PB",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-22",
+   "ISBN": "9788181432292",
+   "Title": "Geetimala",
+   "Author": "Ramvilas Sharma",
+   "Binding": "HB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-23",
+   "ISBN": "9789387024427",
+   "Title": "Ghazal2000",
+   "Author": "Bashir Badra",
+   "Binding": "PB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-24",
+   "ISBN": "9789352295906",
+   "Title": "Ghazlein Dohe Geet",
+   "Author": "Jameeludden 'Aali'",
+   "Binding": "HB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-25",
+   "ISBN": "8170559820",
+   "Title": "Hamare Lokpriya Geetkar : Dushyant Kumar",
+   "Author": "Edited by Sherjung Garg",
+   "Binding": "PB",
+   "Price": 125,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-26",
+   "ISBN": "9789389563870",
+   "Title": "Husnabano Aur Anay Kavitayen",
+   "Author": "Prabha Khetan",
+   "Binding": "PB",
+   "Price": 199,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-27",
+   "ISBN": "9789389012354",
+   "Title": "Ishq Lamhe",
+   "Author": "Ameeta Parsuram 'Meeta'",
+   "Binding": "HB",
+   "Price": 349,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-28",
+   "ISBN": "9789350723784",
+   "Title": "Jharna",
+   "Author": "Jaishankar Prasad",
+   "Binding": "HB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-29",
+   "ISBN": "9789352296866",
+   "Title": "Kuchh To Kahiye…",
+   "Author": "Gulzar",
+   "Binding": "HB",
+   "Price": 495,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-30",
+   "ISBN": "9789389012750",
+   "Title": "Main Shayar Hoon",
+   "Author": "Pradeep Sahil",
+   "Binding": "PB",
+   "Price": 199,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-31",
+   "ISBN": "9789389915259",
+   "Title": "Maitri",
+   "Author": "Teji Grover",
+   "Binding": "HB",
+   "Price": 295,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-32",
+   "ISBN": "9788170559276",
+   "Title": "Majrooh Sultanpuri",
+   "Author": "Dr. Sadiqa Nawab Sahar",
+   "Binding": "HB",
+   "Price": 100,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-33",
+   "ISBN": "9789352291458",
+   "Title": "Majrooh Sultanpuri",
+   "Author": "Dr. Sadiqa Nawab Sahar",
+   "Binding": "PB",
+   "Price": 95,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-34",
+   "ISBN": "9789350002469",
+   "Title": "Mein Bashir Hoon…",
+   "Author": "Bashir Badra",
+   "Binding": "HB",
+   "Price": 250,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-35",
+   "ISBN": "9789350007945",
+   "Title": "Mera Kya",
+   "Author": "Waseem Barelavi",
+   "Binding": "HB",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-36",
+   "ISBN": "9789352291472",
+   "Title": "Mera Kya",
+   "Author": "Waseem Barelavi",
+   "Binding": "PB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-37",
+   "ISBN": "9789389563481",
+   "Title": "Meri Rashi Ka Adhipati Ek Sandh Hai",
+   "Author": "Veeru Sonkar",
+   "Binding": "HB",
+   "Price": 299,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-38",
+   "ISBN": "9789389563658",
+   "Title": "Meri Rashi Ka Adhipati Ek Sandh Hai",
+   "Author": "Veeru Sonkar",
+   "Binding": "PB",
+   "Price": 199,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-39",
+   "ISBN": "9789350008881",
+   "Title": "Muhajirnama",
+   "Author": "Munawwar Rana",
+   "Binding": "HB",
+   "Price": 295,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-40",
+   "ISBN": "9789388684361",
+   "Title": "Nayee Umeed Ki Duniya",
+   "Author": "Madhav Kaushik",
+   "Binding": "HB",
+   "Price": 299,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-41",
+   "ISBN": "9789350001189",
+   "Title": "Nazir Ki Bani",
+   "Author": "Firaque Gorakhpuri",
+   "Binding": "HB",
+   "Price": 275,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-42",
+   "ISBN": "9789352291564",
+   "Title": "Pandrah Panch Pachhattar",
+   "Author": "Gulzar",
+   "Binding": "PB",
+   "Price": 295,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-43",
+   "ISBN": "9789350007365",
+   "Title": "Patton Par Paazeb",
+   "Author": "Avnish Kumar",
+   "Binding": "HB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-44",
+   "ISBN": "9789352291595",
+   "Title": "Patton Par Paazeb",
+   "Author": "Avnish Kumar",
+   "Binding": "PB",
+   "Price": 100,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-45",
+   "ISBN": "9789389563511",
+   "Title": "Prem Ke Vibhin Rang",
+   "Author": "Anju Ranjan",
+   "Binding": "HB",
+   "Price": 299,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-46",
+   "ISBN": "9788170556763",
+   "Title": "RagVirag",
+   "Author": "Firaque Gorakhpuri",
+   "Binding": "HB",
+   "Price": 195,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-47",
+   "ISBN": "817055179X",
+   "Title": "Saath Geet Ratna",
+   "Author": "Dr. Harivansh Rai Bachchan & Edited by Pushpa Bharti",
+   "Binding": "HB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-48",
+   "ISBN": "9789352291649",
+   "Title": "Saath Geet Ratna",
+   "Author": "Dr. Harivansh Rai Bachchan & Edited by Pushpa Bharti",
+   "Binding": "PB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-49",
+   "ISBN": "9788170551362",
+   "Title": "Sadiyon Ke Soye Jaag Uthe",
+   "Author": "Ramvilas Sharma",
+   "Binding": "HB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-50",
+   "ISBN": "9789389012736",
+   "Title": "Safed Log",
+   "Author": "Tikam Shekhawat 'Soninder'",
+   "Binding": "HB",
+   "Price": 299,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-51",
+   "ISBN": "9789350001530",
+   "Title": "Samay Se Muthbher",
+   "Author": "Adam Gondavi",
+   "Binding": "HB",
+   "Price": 250,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-52",
+   "ISBN": "9789389915679",
+   "Title": "Satrange Pankhowali",
+   "Author": "Nagarjun",
+   "Binding": "HB",
+   "Price": 195,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-53",
+   "ISBN": "9789350728840",
+   "Title": "Shahar Me Gaon",
+   "Author": "Nida Fazali",
+   "Binding": "HB",
+   "Price": 795,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-54",
+   "ISBN": "9789389012804",
+   "Title": "Too Samajh Gayee Naa!",
+   "Author": "Ashok Chakradhar",
+   "Binding": "PB",
+   "Price": 199,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-55",
+   "ISBN": "9789350009437",
+   "Title": "Tumne Kaha Tha",
+   "Author": "Nagarjun",
+   "Binding": "HB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-56",
+   "ISBN": "9788170554585",
+   "Title": "Ujale Apni Yadon Ke",
+   "Author": "Vijay Vate",
+   "Binding": "HB",
+   "Price": 200,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-57",
+   "ISBN": "9789352291748",
+   "Title": "Ujale Apni Yadon Ke",
+   "Author": "Vijay Vate",
+   "Binding": "PB",
+   "Price": 150,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-58",
+   "ISBN": "9788170554714",
+   "Title": "Vikas Ka Samajshastra",
+   "Author": "Shyamacharan Dube",
+   "Binding": "HB",
+   "Price": 300,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-59",
+   "ISBN": "9789350007358",
+   "Title": "Vujood",
+   "Author": "Rajesh Reddy",
+   "Binding": "HB",
+   "Price": 250,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-60",
+   "ISBN": "9789352291779",
+   "Title": "Vujood",
+   "Author": "Rajesh Reddy",
+   "Binding": "PB",
+   "Price": 125,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ },
+ {
+   "Code": "VP-61",
+   "ISBN": "9789352291786",
+   "Title": "Yaar Julahe…",
+   "Author": "Gulzar & Edited by Yatindra Mishra",
+   "Binding": "PB",
+   "Price": 325,
+   "Subject": "Poetry",
+   "Language": "Hindi"
+ }
+]

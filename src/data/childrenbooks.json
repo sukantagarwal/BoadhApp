@@ -1,0 +1,1434 @@
+[
+  {
+    "Code": "PP-01",
+    "ISBN": "9788184303315",
+    "Title": "Shaheed Bhagat Singh",
+    "Author": "Meenu Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-02",
+    "ISBN": "9788184303346",
+    "Title": "Subhash Chandra Bose",
+    "Author": "Meenu Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-03",
+    "ISBN": "9788184303391",
+    "Title": "Krantiveer Mangal Pande",
+    "Author": "Kavita Garg",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-04",
+    "ISBN": "9788184303520",
+    "Title": "Swami Dayanand Saraswati",
+    "Author": "Meenu Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-05",
+    "ISBN": "9789351864462",
+    "Title": "Ramkrishna Paramhans",
+    "Author": "Sachin Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-06",
+    "ISBN": "9789351865841",
+    "Title": "Swami Vivekanand",
+    "Author": "Sachin Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-07",
+    "ISBN": "9789352661008",
+    "Title": "Ganit Ke Chutkale",
+    "Author": "Lalit Narain Upadhyaya",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-08",
+    "ISBN": "9789380183299",
+    "Title": "Kahani Rashtriya Dhwaj KI",
+    "Author": "Raghavendra Kumar",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-09",
+    "ISBN": "9789380186658",
+    "Title": "Veer Birsa",
+    "Author": "Ghanshyam",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-10",
+    "ISBN": "9789380823409",
+    "Title": "Sachchai Ki Jeet",
+    "Author": "Satyaketu",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-11",
+    "ISBN": "9789380839530",
+    "Title": "Goswami Tulsidas",
+    "Author": "Meena Manishika",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-12",
+    "ISBN": "9789382901570",
+    "Title": "Watershed",
+    "Author": "Varsha Singh",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-13",
+    "ISBN": "9789382901877",
+    "Title": "Shatranj Ke Khiladi",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-14",
+    "ISBN": "9789383110469",
+    "Title": "Guru Ravindranath Tagore",
+    "Author": "Manish Kumar",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-15",
+    "ISBN": "9789383111787",
+    "Title": "Chakravarty Bharat",
+    "Author": "Anil Kumar 'Salil'",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-16",
+    "ISBN": "9789383111916",
+    "Title": "Jhansi Ki Rani Lakshmibai",
+    "Author": "Kapil",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-17",
+    "ISBN": "9789384343125",
+    "Title": "Sankramak Rog Aur Unse Bachav",
+    "Author": "Ankit Sharma",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-18",
+    "ISBN": "9789386001474",
+    "Title": "Acharya Chanakya",
+    "Author": "Anil Kumar 'Salil'",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-19",
+    "ISBN": "9789386001726",
+    "Title": "Bhakta Prahlad",
+    "Author": "Anil Kumar 'Salil'",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-20",
+    "ISBN": "9789386054036",
+    "Title": "Panch Parmeshwar",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-21",
+    "ISBN": "9789386054050",
+    "Title": "Chandragupt Vikramaditya",
+    "Author": "Sumit Kumar",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-22",
+    "ISBN": "9789386054388",
+    "Title": "Dr. Rajendra Prasad",
+    "Author": "Kavita Garg",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-23",
+    "ISBN": "9789386871114",
+    "Title": "Dr. Radhakrishnan",
+    "Author": "Neeraj",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-24",
+    "ISBN": "9789386871121",
+    "Title": "Lala Hardayal",
+    "Author": "Neeraj",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "PP-25",
+    "ISBN": "9789352666836",
+    "Title": "Sankshipt Uttar Pradesh Samanya Gyan",
+    "Author": "Team Prabhat Prakashan",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-26",
+    "ISBN": "9789352667260",
+    "Title": "Sankshipt Madhya Pradesh Samanya Gyan",
+    "Author": "Team Prabhat Prakashan",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-27",
+    "ISBN": "9789386300942",
+    "Title": "Dr. Bhimrao Ambedkar",
+    "Author": "Pankaj Kishor",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-28",
+    "ISBN": "9788177212440",
+    "Title": "Dr. A.P.J. Abdul Kalam",
+    "Author": "Sachin Sinhal",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-29",
+    "ISBN": "9788177212457",
+    "Title": "Idgah",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-30",
+    "ISBN": "9788177212952",
+    "Title": "Do Bailon Ki Jori",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-31",
+    "ISBN": "9788177213140",
+    "Title": "Achchhe Bachche/Seedhe Sachche",
+    "Author": "Mayaram 'Patang'",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-32",
+    "ISBN": "9788184306262",
+    "Title": "Mazedar Chutkule",
+    "Author": "Gopal Garg",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-33",
+    "ISBN": "9788189573263",
+    "Title": "Natkhat Memna",
+    "Author": "Shivmurti Singh 'Vats'",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-34",
+    "ISBN": "9789352660520",
+    "Title": "Dasharath Manjhi",
+    "Author": "Sunil Kumar Sinha",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-35",
+    "ISBN": "9789352665792",
+    "Title": "Mati Ke Lal Vinod bihari Mahto",
+    "Author": "Sanjay Jha",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-36",
+    "ISBN": "9789352667666",
+    "Title": "Mahatma Jyotiba Phule",
+    "Author": "Pankaj",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-37",
+    "ISBN": "9789380186313",
+    "Title": "HANSO AUR HANSAO",
+    "Author": "RAJU NARAYAN",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-38",
+    "ISBN": "9789382898382",
+    "Title": "PRAKRITIK AAPDAYEN (NATURAL DISASTER)",
+    "Author": "DR. D.D. OJHA",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-39",
+    "ISBN": "9789383111985",
+    "Title": "Main Hoon Pani",
+    "Author": "Turshan Pal Pathak",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-40",
+    "ISBN": "9789386001450",
+    "Title": "Bharat Ke Nritya",
+    "Author": "Dr. Madhu Verma",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-41",
+    "ISBN": "9789386001481",
+    "Title": "Bharat Ke Tyohar",
+    "Author": "Anil Mishra",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-42",
+    "ISBN": "9789386054302",
+    "Title": "21 Bal Geet",
+    "Author": "Nirmala Singh",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-43",
+    "ISBN": "9789387968547",
+    "Title": "Do Bhai",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-44",
+    "ISBN": "9789387968639",
+    "Title": "Sujan Bhagat",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-45",
+    "ISBN": "817315371X",
+    "Title": "Aao Chiriyaghar Ki Sair Karen",
+    "Author": "Shyam Sunder Sharma & Dr. A.K. Malhotra",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "PP-46",
+    "ISBN": "9788184306170",
+    "Title": "MERE DESH KE PASHU",
+    "Author": "YASH",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-47",
+    "ISBN": "9788184306187",
+    "Title": "MERE DESH KE PRASIDDHA VAIGYANIK",
+    "Author": "VISHU",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-48",
+    "ISBN": "9788184306194",
+    "Title": "MERE DESH KE PRASIDDHA KILE",
+    "Author": "ANUJ KUMAR",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-49",
+    "ISBN": "9788184306200",
+    "Title": "MERE DESH KE PRASIDDHA MANDIR",
+    "Author": "ANUJ KUMAR",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-50",
+    "ISBN": "9788184306224",
+    "Title": "KAISI-KAISI AKRITIYAN",
+    "Author": "ABHAY",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-51",
+    "ISBN": "9788184306231",
+    "Title": "MERE DESH KE MAHAN KRANTIKARI",
+    "Author": "ABHAY",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-52",
+    "ISBN": "9788193457832",
+    "Title": "MAJOR DHYANCHAND",
+    "Author": "KUMKUM KHANNA",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-53",
+    "ISBN": "9788193457856",
+    "Title": "PT USHA",
+    "Author": "KUMKUM KHANNA",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-54",
+    "ISBN": "9788193457863",
+    "Title": "MILKHA SINGH",
+    "Author": "KUMKUM KHANNA",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-55",
+    "ISBN": "9788193457870",
+    "Title": "SUNITA WILLIAMS",
+    "Author": "RACHNA BBHOLA 'YAMINI'",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-56",
+    "ISBN": "9789351864936",
+    "Title": "Unesco",
+    "Author": "Mahesh Sharma",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-57",
+    "ISBN": "9789352660735",
+    "Title": "Dr. A.P.J. Abdul Kalam Chitrawali",
+    "Author": "Srijan Pal Singh",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "PP-58",
+    "ISBN": "9789351864899",
+    "Title": "365 Chutkule",
+    "Author": "Abid Surti",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "PP-59",
+    "ISBN": "9789350481011",
+    "Title": "Sampoorna Bal Sahitya (Vol. 1)",
+    "Author": "Shriramvriksha Benipuri",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "PP-60",
+    "ISBN": "9789350481028",
+    "Title": "Sampoorna Bal Sahitya (Vol. 2)",
+    "Author": "Shriramvriksha Benipuri",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788189444518",
+    "Title": "Aag Ka Dweep ",
+    "Author": "Abrar Mohsin",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "BKK",
+    "Title": "Boski Ka Kauwanama",
+    "Author": "Gulzar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788183616348",
+    "Title": "Boski Ka Panchtantra",
+    "Author": "Gulzar",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788183616409",
+    "Title": "Boski Ke Dhanwan",
+    "Author": "Gulzar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RKG-05",
+    "ISBN": "9788183616416",
+    "Title": "Boski Ke Gappen",
+    "Author": "Gulzar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RKG-06",
+    "ISBN": "BKKC",
+    "Title": "Boski Ke Kaptan Chacha",
+    "Author": "Gulzar",
+    "Binding": "HB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "RKG-07",
+    "ISBN": "9788183612456",
+    "Title": "Boski Ke Tal Patal",
+    "Author": "Gulzar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RKG-08",
+    "ISBN": "9788183616393",
+    "Title": "Boski Ki Ginti",
+    "Author": "Gulzar",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RKG-09",
+    "ISBN": "9788183613224",
+    "Title": "Boski Ki Sunali",
+    "Author": "Gulzar",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RKG-10",
+    "ISBN": "9788126709649",
+    "Title": "Botal Ka Jinna",
+    "Author": "Brajesh Shukla",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RKG-11",
+    "ISBN": "9788126720712",
+    "Title": "Brahm raksash Ka Nai",
+    "Author": "Rajesh Joshi",
+    "Binding": "PB",
+    "Price": "₹ 40"
+  },
+  {
+    "Code": "RKG-12",
+    "ISBN": "9788190271783",
+    "Title": "Ek Se Bhale Char",
+    "Author": "Jayprakash Manas",
+    "Binding": "PB",
+    "Price": "₹ 25"
+  },
+  {
+    "Code": "RKG-13",
+    "ISBN": "9788189432126",
+    "Title": "Ek Tang Ki Akkal",
+    "Author": "Jayprakash Manas",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RKG-14",
+    "ISBN": "9788189444099",
+    "Title": "Ghar Jamai",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RKG-15",
+    "ISBN": "9788126721016",
+    "Title": "Gulli Danda",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RKG-16",
+    "ISBN": "9788190273909",
+    "Title": "Jhuka Hua Vindhyachal",
+    "Author": "Jayprakash Manas",
+    "Binding": "PB",
+    "Price": "₹ 25"
+  },
+  {
+    "Code": "RKG-17",
+    "ISBN": "9788126717118",
+    "Title": "Tenaliram Ki Kahaniyan",
+    "Author": "Ashok Maheshwari",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-01",
+    "ISBN": "9.79E+12",
+    "Title": "Ganesha",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-02",
+    "ISBN": "9.79E+12",
+    "Title": "Panchatantra - II",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-03",
+    "ISBN": "9.79E+12",
+    "Title": "Panchatantra - I",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-04",
+    "ISBN": "9.79E+12",
+    "Title": "Krishna",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-05",
+    "ISBN": "9.79E+12",
+    "Title": "Hanuman",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-06",
+    "ISBN": "9.79E+12",
+    "Title": "Akbar Aur Birbal - I",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-07",
+    "ISBN": "9.79E+12",
+    "Title": "Akbar Aur Birbal - II",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-08",
+    "ISBN": "9.79E+12",
+    "Title": "Shiv Aur Parvati",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-09",
+    "ISBN": "9.79E+12",
+    "Title": "Arjun",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-10",
+    "ISBN": "9.79E+12",
+    "Title": "Ram",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-100",
+    "ISBN": "9.79E+12",
+    "Title": "Raja Ka Nyay",
+    "Author": "Tagore/Ravindranath",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-101",
+    "ISBN": "9.79E+12",
+    "Title": "Paras Mani",
+    "Author": "Tagore/Ravindranath",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-102",
+    "ISBN": "9.79E+12",
+    "Title": "Masterji",
+    "Author": "Tagore/Ravindranath",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-103",
+    "ISBN": "9.79E+12",
+    "Title": "Saral Hitopdesh",
+    "Author": "Shastri/Dharmpal",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-104",
+    "ISBN": "9.79E+12",
+    "Title": "Saral Panchtantra",
+    "Author": "Shastri/Dharmpal",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-105",
+    "ISBN": "9.79E+12",
+    "Title": "Saral Ramayan",
+    "Author": "Vidyalankam/Satyakam",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-106",
+    "ISBN": "9.79E+12",
+    "Title": "Saral Mahabharat",
+    "Author": "Vanprasthi/Pran Nath",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-107",
+    "ISBN": "9.79E+12",
+    "Title": "Bhagat Singh",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-108",
+    "ISBN": "9.79E+12",
+    "Title": "Mother Teresa",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-109",
+    "ISBN": "9.79E+12",
+    "Title": "Jawahar Lal Nehru",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-11",
+    "ISBN": "9.79E+12",
+    "Title": "Jatak Kathayein - I",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-110",
+    "ISBN": "9.79E+12",
+    "Title": "Ravindranath Tagore",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-111",
+    "ISBN": "9.79E+12",
+    "Title": "Jhansi Ki Rani",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-112",
+    "ISBN": "9.79E+12",
+    "Title": "Guru Nanak",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-113",
+    "ISBN": "9.79E+12",
+    "Title": "Subhash Chandra Bose",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-114",
+    "ISBN": "9.79E+12",
+    "Title": "Chanakya",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-115",
+    "ISBN": "9.79E+12",
+    "Title": "Mahatma Gandhi",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-116",
+    "ISBN": "9.79E+12",
+    "Title": "Ashok",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-12",
+    "ISBN": "9.79E+12",
+    "Title": "Jatak Kathayein - II",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-13",
+    "ISBN": "9.79E+12",
+    "Title": "Jatak Kathayein - III",
+    "Author": "Wilco Picture Library",
+    "Binding": "PB",
+    "Price": "₹ 50"
+  },
+  {
+    "Code": "RS-14",
+    "ISBN": "9.79E+12",
+    "Title": "Do Mitr",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-15",
+    "ISBN": "9.79E+12",
+    "Title": "Gajnandan Lal Ke Karname",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-16",
+    "ISBN": "9.79E+12",
+    "Title": "Moti Kiske",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-17",
+    "ISBN": "9.79E+12",
+    "Title": "Achche Bano",
+    "Author": "Vanprasthi/Pran Nath",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-18",
+    "ISBN": "9.79E+12",
+    "Title": "Akal Badi Ya Bhains",
+    "Author": "Nagar/Amritlal",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-19",
+    "ISBN": "9.79E+12",
+    "Title": "Hum Ek Hain",
+    "Author": "Shastri/Dharmpal",
+    "Binding": "PB",
+    "Price": "₹ 35"
+  },
+  {
+    "Code": "RS-20",
+    "ISBN": "978 81 7028 416 1",
+    "Title": "Sadachar Ki Kathayen",
+    "Author": "Kumar/Anand",
+    "Binding": "PB",
+    "Price": "₹ 25"
+  },
+  {
+    "Code": "RS-21",
+    "ISBN": "9.79E+12",
+    "Title": "Tapovan Ki Kahaniyaan",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-22",
+    "ISBN": "978 81 7028 473 4",
+    "Title": "Heere Ki Pehchan",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-23",
+    "ISBN": "9.79E+12",
+    "Title": "Kshamadaan",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-24",
+    "ISBN": "978 81 7028 475 8",
+    "Title": "Paap Ka Ghara",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-25",
+    "ISBN": "9.79E+12",
+    "Title": "Radhika Sundari",
+    "Author": "Shivani",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-26",
+    "ISBN": "9.79E+12",
+    "Title": "Sookha Gulab",
+    "Author": "Shivani",
+    "Binding": "PB",
+    "Price": "₹ 40"
+  },
+  {
+    "Code": "RS-27",
+    "ISBN": "9.79E+12",
+    "Title": "Jungle Ki Kahani",
+    "Author": "London/Jack",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-28",
+    "ISBN": "9.79E+12",
+    "Title": "Gulliver Ki Yatraein",
+    "Author": "Swift/Jonathan",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-29",
+    "ISBN": "9.79E+12",
+    "Title": "Samudri Duniya ki Romanchkari Yatra",
+    "Author": "Verne/Jules",
+    "Binding": "PB",
+    "Price": "₹ 65"
+  },
+  {
+    "Code": "RS-30",
+    "ISBN": "978 81 7483 012 8",
+    "Title": "80 Din Mein Duniya Ki Sair",
+    "Author": "Verne/Jules",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-31",
+    "ISBN": "9.79E+12",
+    "Title": "Jaadu Nagari",
+    "Author": "Carrol/Lewis",
+    "Binding": "PB",
+    "Price": "₹ 65"
+  },
+  {
+    "Code": "RS-32",
+    "ISBN": "9.79E+12",
+    "Title": "Bahadur Tom",
+    "Author": "Twain/Mark",
+    "Binding": "PB",
+    "Price": "₹ 65"
+  },
+  {
+    "Code": "RS-33",
+    "ISBN": "9.79E+12",
+    "Title": "Teesmaar Khan",
+    "Author": "Cervantes/Miguel De",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-34",
+    "ISBN": "9.79E+12",
+    "Title": "Khazane Ki Khoj",
+    "Author": "Stevenson/R.L.",
+    "Binding": "PB",
+    "Price": "₹ 65"
+  },
+  {
+    "Code": "RS-35",
+    "ISBN": "9.79E+12",
+    "Title": "Chaandi Ka Button",
+    "Author": "Stevenson/R.L.",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-36",
+    "ISBN": "9.79E+12",
+    "Title": "Moonge Ka Dweep",
+    "Author": "Valentine/R.M.",
+    "Binding": "PB",
+    "Price": "₹ 65"
+  },
+  {
+    "Code": "RS-37",
+    "ISBN": "9.79E+12",
+    "Title": "Robin Hood",
+    "Author": "Various",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-38",
+    "ISBN": "9.79E+12",
+    "Title": "Birbal Ki Chaturai",
+    "Author": "Srikant",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-39",
+    "ISBN": "9.79E+12",
+    "Title": "Akbar Birbal",
+    "Author": "Kumar/Anand",
+    "Binding": "PB",
+    "Price": "₹ 35"
+  },
+  {
+    "Code": "RS-40",
+    "ISBN": "9.79E+12",
+    "Title": "Ali Baba Aur Chalis Chor",
+    "Author": "Anand/Gajdit Dixit",
+    "Binding": "PB",
+    "Price": "₹ 35"
+  },
+  {
+    "Code": "RS-41",
+    "ISBN": "9.79E+12",
+    "Title": "Birbal Ki Kahaniyaan",
+    "Author": "Kumar/Anand",
+    "Binding": "PB",
+    "Price": "₹ 25"
+  },
+  {
+    "Code": "RS-42",
+    "ISBN": "9.79E+12",
+    "Title": "Kabuliwala",
+    "Author": "Tagore/Ravindranath",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-44",
+    "ISBN": "9.79E+12",
+    "Title": "Kabuliwala",
+    "Author": "Tagore/Ravindranath",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "RS-48",
+    "ISBN": "9.79E+12",
+    "Title": "Classic Folk Tales From India : Akbar Birbal Vol I",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-49",
+    "ISBN": "9.79E+12",
+    "Title": "Classic Folk Tales From India : Akbar Birbal Vol II",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "RS-50",
+    "ISBN": "9.79E+12",
+    "Title": "Classic Folk Tales From India : Akbar Birbal Vol III",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "RS-51",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Panchatantra Vol I",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "RS-52",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Panchatantra Vol II",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "RS-53",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Panchatantra Vol III",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-54",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Panchatantra Vol IV",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "RS-55",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Panchatantra Vol V",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-61",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Jatak Kathayen Vol I",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-62",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Jatak Kathayen Vol II",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-63",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Jatak Kathayen Vol III",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-64",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Jatak Kathayen Vol IV",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-65",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Classic Lok Kathayen : Jatak Kathayen Vol V",
+    "Author": "Rajpal Graphic Studio",
+    "Binding": "PB",
+    "Price": "₹ 60"
+  },
+  {
+    "Code": "RS-71",
+    "ISBN": "9.79E+12",
+    "Title": "Padosi Deshon Ki Lok Kathayen",
+    "Author": "Reddy/Vijay Raghav",
+    "Binding": "PB",
+    "Price": "₹ 35"
+  },
+  {
+    "Code": "RS-72",
+    "ISBN": "9.79E+12",
+    "Title": "Madhya Pradesh Ki Lok Kathayen",
+    "Author": "Bakshi/Ramesh",
+    "Binding": "PB",
+    "Price": "₹ 35"
+  },
+  {
+    "Code": "RS-73",
+    "ISBN": "9.79E+12",
+    "Title": "Uttar Pradesh Ki Lok Kathayen",
+    "Author": "Verma/Savitri Devi",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-74",
+    "ISBN": "9.79E+12",
+    "Title": "Rajasthan Ki Lok Kathayen",
+    "Author": "Bhattacharya/Shanti",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-75",
+    "ISBN": "9.79E+12",
+    "Title": "Himachal Ki Lok Kathayen",
+    "Author": "Shailja/Santosh",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-76",
+    "ISBN": "9.79E+12",
+    "Title": "Haryana Ki Lok Kathayen",
+    "Author": "Prabhakar/Devi Sharan",
+    "Binding": "PB",
+    "Price": "₹ 35"
+  },
+  {
+    "Code": "RS-77",
+    "ISBN": "978 81 7028 366 9",
+    "Title": "Punjab Ki Lok Kathayen",
+    "Author": "Chauhan/Vijay",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-78",
+    "ISBN": "9.79E+12",
+    "Title": "Meri Kahani",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 25"
+  },
+  {
+    "Code": "RS-79",
+    "ISBN": "9.79E+12",
+    "Title": "Sabse Bada Teerth",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-80",
+    "ISBN": "9.79E+12",
+    "Title": "Mandir",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-81",
+    "ISBN": "9.79E+12",
+    "Title": "Id Ka Tyohaar",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-82",
+    "ISBN": "9.79E+12",
+    "Title": "Ramkatha",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-83",
+    "ISBN": "9.79E+12",
+    "Title": "Bade Ghar Ki Beti",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-84",
+    "ISBN": "9.79E+12",
+    "Title": "Maa Ki Mamta",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 40"
+  },
+  {
+    "Code": "RS-85",
+    "ISBN": "9.79E+12",
+    "Title": "Sujan Bhagat",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-86",
+    "ISBN": "9.79E+12",
+    "Title": "Gulli Danda",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-87",
+    "ISBN": "9.79E+12",
+    "Title": "Shatranj Ke Khiladi",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-88",
+    "ISBN": "9.79E+12",
+    "Title": "Ramleela",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-89",
+    "ISBN": "9.79E+12",
+    "Title": "Namak Ka Daroga",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-90",
+    "ISBN": "9.79E+12",
+    "Title": "Shikari Rajkumar",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-91",
+    "ISBN": "9.79E+12",
+    "Title": "Do Bailon Ki Katha",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-92",
+    "ISBN": "9.79E+12",
+    "Title": "Jungle Ki Kahaniyaan",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-93",
+    "ISBN": "9.79E+12",
+    "Title": "Panch Parmeshwar",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-94",
+    "ISBN": "9.79E+12",
+    "Title": "Rani Sarandha",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-95",
+    "ISBN": "9.79E+12",
+    "Title": "Boodhi Kaki",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-96",
+    "ISBN": "9.79E+12",
+    "Title": "Pariksha",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  },
+  {
+    "Code": "RS-97",
+    "ISBN": "9.79E+12",
+    "Title": "Kutte Ki Kahani",
+    "Author": "Premchand",
+    "Binding": "PB",
+    "Price": "₹ 55"
+  },
+  {
+    "Code": "RS-98",
+    "ISBN": "9.79E+12",
+    "Title": "Bhola Raja",
+    "Author": "Tagore/Ravindranath",
+    "Binding": "PB",
+    "Price": "₹ 30"
+  },
+  {
+    "Code": "RS-99",
+    "ISBN": "9.79E+12",
+    "Title": "Tote Ki Kahani",
+    "Author": "Tagore/Ravindranath",
+    "Binding": "PB",
+    "Price": "₹ 45"
+  }
+]

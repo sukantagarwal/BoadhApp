@@ -1,0 +1,218 @@
+[
+  {
+    "Code": "PP-01",
+    "ISBN": "9788173157189",
+    "Title": "Safal Manager Kaise Banen",
+    "Author": "Promod Batra",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "PP-02",
+    "ISBN": "9788173159848",
+    "Title": "Gita Mein Management Sootra",
+    "Author": "Vinod Malhotra",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-03",
+    "ISBN": "9788173157202",
+    "Title": "Safalta Ke 501 Gurumantra",
+    "Author": "Promod Batra",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "PP-04",
+    "ISBN": "9788173158971",
+    "Title": "Tanav Ko Karen Bye-Bye",
+    "Author": "Promod Batra",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-05",
+    "ISBN": "9789350484319",
+    "Title": "Badi Badi Khushiyon Ki Chhoti-Chhoti Baten",
+    "Author": "Jps Jolly",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-06",
+    "ISBN": "9789351863205",
+    "Title": "Fir Bhi Zindagi Khoobsurat Hai",
+    "Author": "N Raghuraman",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-07",
+    "ISBN": "9789350485187",
+    "Title": "Lakshya Prapti Ke Funde",
+    "Author": "N Raghuraman",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-08",
+    "ISBN": "9788173158803",
+    "Title": "25 Super Brands",
+    "Author": "Prakash Biyani",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-09",
+    "ISBN": "9788173158858",
+    "Title": "Leadership Ke Funde",
+    "Author": "N. Raghuraman",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-10",
+    "ISBN": "9788173158865",
+    "Title": "Safal Business Ke Funde",
+    "Author": "N. Raghuraman",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-11",
+    "ISBN": "9788173158957",
+    "Title": "Karmachariyon Ko Sarvashreshtha Banayen",
+    "Author": "Promod Batra",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-12",
+    "ISBN": "9788173159084",
+    "Title": "Business Secrets",
+    "Author": "Motilal Oswal",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-13",
+    "ISBN": "9788173159695",
+    "Title": "24×7 Anand Hi Anand",
+    "Author": "JS Mishra",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "PP-14",
+    "ISBN": "9789350488225",
+    "Title": "Manchahi Safalta Kaise Payen",
+    "Author": "Napoleon Hill",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-15",
+    "ISBN": "9789352663064",
+    "Title": "Secrets of Leadership",
+    "Author": "Pradeep Thakur",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-16",
+    "ISBN": "9788173157646",
+    "Title": "Chanakya Neeti",
+    "Author": "Acharya Chanakya",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-17",
+    "ISBN": "9788173158841",
+    "Title": "Jeevan Jeene Ke Funde",
+    "Author": "N. Raghuraman",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-18",
+    "ISBN": "9789350485170",
+    "Title": "Positive Soch Ke Funde",
+    "Author": "N Raghuraman",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "PP-19",
+    "ISBN": "9788173159053",
+    "Title": "Personality Development Guide",
+    "Author": "Priyanshu Shekhar",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "PP-20",
+    "ISBN": "9789352663750",
+    "Title": "Chinta Chhodo Sukh Se Jiyo",
+    "Author": "Dale Carnegie",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "PP-21",
+    "ISBN": "9788189573201",
+    "Title": "Safalata Aapki Mutthi Mein",
+    "Author": "Sanjay Chadha",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "PP-22",
+    "ISBN": "9788177212532",
+    "Title": "ACHCHHA BOLNE KI KALA AUR KAMYABI",
+    "Author": "Dale Carnegie",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "PP-23",
+    "ISBN": "9789389982022",
+    "Title": "Utho! Jago! Aage Barho",
+    "Author": "Sandip Kumar Salunkhe",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "PP-24",
+    "ISBN": "9789353226879",
+    "Title": "Super Safalta ke 25 Supar Niyam",
+    "Author": "OG Mandino",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "SM-01",
+    "ISBN": "9788188457519",
+    "Title": "Khushi Ka Vigyan",
+    "Author": "Nirmala Bhuradiya",
+    "Binding": "HB",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-02",
+    "ISBN": "9788171384167",
+    "Title": "Soch Badlein/ Jeevan Badlein",
+    "Author": "Ravi Saxena",
+    "Binding": "HB",
+    "Price": "₹ 295.00"
+  },
+  {
+    "Code": "SM-03",
+    "ISBN": "9788171382422",
+    "Title": "Love Mantra",
+    "Author": "Manasi",
+    "Binding": "HB",
+    "Price": "₹ 460.00"
+  }
+]

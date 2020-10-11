@@ -1,0 +1,610 @@
+[
+  {
+    "Code": "pp-01",
+    "ISBN": "8173154929",
+    "Title": "Hastlipi Vigyan",
+    "Author": "Bal Krishna Mishra",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "pp-02",
+    "ISBN": "8173154937",
+    "Title": "Jyotish Aur Aakriti Vigyan",
+    "Author": "Pandit Bhojraj Dwivedi",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "pp-03",
+    "ISBN": "9788173157660",
+    "Title": "Hind Swaraj",
+    "Author": "Mahatma Gandhi",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "pp-04",
+    "ISBN": "9789350483404",
+    "Title": "Amar Karantiveer Chandrashekhar Azad",
+    "Author": "Bharat Bhushan",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "pp-05",
+    "ISBN": "9789352666706",
+    "Title": "Love Jihad",
+    "Author": "Swati Kale",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "pp-06",
+    "ISBN": "9789380183954",
+    "Title": "Bhashan Kala",
+    "Author": "Mahesh Sharma",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "pp-07",
+    "ISBN": "9788173156786",
+    "Title": "Sahitya Shiksha Aur Sanskriti",
+    "Author": "Dr Rajendra Prasad",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "pp-08",
+    "ISBN": "9788173158735",
+    "Title": "Bharat Vibhajan",
+    "Author": "Sardar Patel",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "pp-09",
+    "ISBN": "9789382898016",
+    "Title": "Student GK Quiz Bank",
+    "Author": "Chitra Garg",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "pp-10",
+    "ISBN": "9789350481127",
+    "Title": "Hindi Patrakarita Ki Shabda Sampada",
+    "Author": "Badrinath Kapoor/R Ratnesh/Shiv Kumar Avasthi",
+    "Binding": "HB",
+    "Price": "₹ 900"
+  },
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788126727926",
+    "Title": "Andhavishwas Unmoolan : Vol. 1 : Vichar",
+    "Author": "Narendra Dabholkar",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "9788126728879",
+    "Title": "Andhavishwas Unmoolan : Vol. 1 : Vichar",
+    "Author": "Narendra Dabholkar",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788126727933",
+    "Title": "Andhavishwas Unmoolan : Vol. 2 : Aachar",
+    "Author": "Narendra Dabholkar",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788126728978",
+    "Title": "Andhavishwas Unmoolan : Vol. 2 : Aachar",
+    "Author": "Narendra Dabholkar",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RKG-05",
+    "ISBN": "9788126727940",
+    "Title": "Andhavishwas Unmoolan : Vol. 3 : Siddhant",
+    "Author": "Narendra Dabholkar",
+    "Binding": "PB",
+    "Price": "₹ 175"
+  },
+  {
+    "Code": "RKG-06",
+    "ISBN": "9788126728985",
+    "Title": "Andhavishwas Unmoolan : Vol. 3 : Siddhant",
+    "Author": "Narendra Dabholkar",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "RKG-07",
+    "ISBN": "9789389243895",
+    "Title": "Bharat Ki Sanskritik Kahani : Dinkar Granthmala",
+    "Author": "Ramdhari Singh Dinkar",
+    "Binding": "PB",
+    "Price": "₹ 99"
+  },
+  {
+    "Code": "RKG-08",
+    "ISBN": "9789389243888",
+    "Title": "Bharat Ki Sanskritik Kahani : Dinkar Granthmala",
+    "Author": "Ramdhari Singh Dinkar",
+    "Binding": "HB",
+    "Price": "₹ 195"
+  },
+  {
+    "Code": "RKG-09",
+    "ISBN": "9788171194438",
+    "Title": "Sara Aakash",
+    "Author": "Rajendra Yadav",
+    "Binding": "HB",
+    "Price": "₹ 450"
+  },
+  {
+    "Code": "RKG-10",
+    "ISBN": "9788183612531",
+    "Title": "Sara Aakash",
+    "Author": "Rajendra Yadav",
+    "Binding": "PB",
+    "Price": "₹ 199"
+  },
+  {
+    "Code": "RKG-11",
+    "ISBN": "9788126713004",
+    "Title": "Sobti-Vaid Samvad : Lekhan Aur Lekhak",
+    "Author": "Krishna Sobti & Krishna Baldev Vaid",
+    "Binding": "HB",
+    "Price": "₹ 450"
+  },
+  {
+    "Code": "RS-01",
+    "ISBN": "9.79E+12",
+    "Title": "Shiksha Kya Hai",
+    "Author": "Krishnamurti/J.",
+    "Binding": "PB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "RS-02",
+    "ISBN": "9.79E+12",
+    "Title": "Ishwar Kya Hai",
+    "Author": "Krishnamurti/J.",
+    "Binding": "PB",
+    "Price": "₹ 185"
+  },
+  {
+    "Code": "RS-03",
+    "ISBN": "9.79E+12",
+    "Title": "Dhyaan",
+    "Author": "Krishnamurti/J.",
+    "Binding": "PB",
+    "Price": "₹ 215"
+  },
+  {
+    "Code": "RS-04",
+    "ISBN": "9.79E+12",
+    "Title": "Aapko Apne Jeevan Mein Kya Karna Hai",
+    "Author": "Krishnamurti/J.",
+    "Binding": "PB",
+    "Price": "₹ 285"
+  },
+  {
+    "Code": "RS-05",
+    "ISBN": "9.79E+12",
+    "Title": "Pratham Aur Antim Mukti",
+    "Author": "Krishnamurti/J.",
+    "Binding": "PB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "RS-06",
+    "ISBN": "9.79E+12",
+    "Title": "Soch Kya Hai",
+    "Author": "Krishnamurti/J.",
+    "Binding": "PB",
+    "Price": "₹ 185"
+  },
+  {
+    "Code": "RS-07",
+    "ISBN": "9.79E+12",
+    "Title": "Bharatiya Darshan-I",
+    "Author": "Radhakrishnan/Sarvapalli",
+    "Binding": "HB",
+    "Price": "₹ 550"
+  },
+  {
+    "Code": "RS-08",
+    "ISBN": "9.79E+12",
+    "Title": "Bharatiya Darshan-II",
+    "Author": "Radhakrishnan/Sarvapalli",
+    "Binding": "HB",
+    "Price": "₹ 525"
+  },
+  {
+    "Code": "RS-09",
+    "ISBN": "9.79E+12",
+    "Title": "Upnishadon Ka Sandesh",
+    "Author": "Radhakrishnan/Sarvapalli",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "RS-10",
+    "ISBN": "9.79E+12",
+    "Title": "Mere Sapnon ka Bharat",
+    "Author": "Gandhi Mohandas K.",
+    "Binding": "PB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "RS-11",
+    "ISBN": "9.79E+12",
+    "Title": "Hind Swaraj",
+    "Author": "Gandhi Mohandas K.",
+    "Binding": "PB",
+    "Price": "₹ 95"
+  },
+  {
+    "Code": "RS-12",
+    "ISBN": "9.79E+12",
+    "Title": "Bharatiya Sanskriti Kosh",
+    "Author": "Sharma Leeladhar",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "RS-13",
+    "ISBN": "9.79E+12",
+    "Title": "Antarrashtriya Vyakti Kosh",
+    "Author": "Sharma/Vishwamitra",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RS-14",
+    "ISBN": "9.79E+12",
+    "Title": "Nobel Puraskar Vijeyta Sahityakaar",
+    "Author": "Singh/Rajbahadur",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-15",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ratna",
+    "Author": "Sharma/Vishwamitra",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "RS-16",
+    "ISBN": "9.79E+12",
+    "Title": "Nobel Puraskar Kosh",
+    "Author": "Sharma/Vishwamitra",
+    "Binding": "HB",
+    "Price": "₹ 275"
+  },
+  {
+    "Code": "RS-17",
+    "ISBN": "9.79E+12",
+    "Title": "Nobel Puraskar Sammanit Bharatiya",
+    "Author": "Sharma/Vishwamitra",
+    "Binding": "HB",
+    "Price": "₹ 100"
+  },
+  {
+    "Code": "RS-18",
+    "ISBN": "9.79E+12",
+    "Title": "Nobel Puraskar Sammanit Bharatiya",
+    "Author": "Sharma/Vishwamitra",
+    "Binding": "PB",
+    "Price": "₹ 125"
+  },
+  {
+    "Code": "RS-19",
+    "ISBN": "9.79E+12",
+    "Title": "Beesveen Sadi Ke 100 Prasiddh Bharatiya",
+    "Author": "Sharma/Vishwamitra",
+    "Binding": "HB",
+    "Price": "₹ 220"
+  },
+  {
+    "Code": "RS-20",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Nadiyon Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-21",
+    "ISBN": "9.79E+12",
+    "Title": "Bharatiya Sangeet Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-22",
+    "ISBN": "9.79E+12",
+    "Title": "Vishwa Ke Mahaan Vaigyanik",
+    "Author": "Philipken",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-23",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Chitrakala Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-24",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-25",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Murtikala Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-26",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ke Bhawanon Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-27",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ke Sahityon Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-28",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ke Padosi Desh",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-29",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ke Rashtrapati",
+    "Author": "Mishra/Bhagwatisharan",
+    "Binding": "HB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "RS-30",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ke Nagaron Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-31",
+    "ISBN": "9.79E+12",
+    "Title": "Bharat Ki Sanskriti Ki Kahani",
+    "Author": "Upadhyay/Bhagwatsharan",
+    "Binding": "PB",
+    "Price": "₹ 70"
+  },
+  {
+    "Code": "RS-32",
+    "ISBN": "9.79E+12",
+    "Title": "Rajpal Muhawara Kosh",
+    "Author": "Sharma/Harivansh Rai",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "RS-33",
+    "ISBN": "9.79E+12",
+    "Title": "Rajpal Kahavat Kosh",
+    "Author": "Singh/Samar",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-34",
+    "ISBN": "9.79E+12",
+    "Title": "Rajpal Lokokti Kosh",
+    "Author": "Sharma/Harivansh Rai",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RS-35",
+    "ISBN": "9.79E+12",
+    "Title": "Rajpal Brihat Subhashit Kosh",
+    "Author": "Sharma/Harivansh Rai",
+    "Binding": "HB",
+    "Price": "₹ 595"
+  },
+  {
+    "Code": "RS-37",
+    "ISBN": "9.79E+12",
+    "Title": "Shabdarth Vichar Kosh",
+    "Author": "Verma/Acharya Ramchandra",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "RS-38",
+    "ISBN": "9.79E+12",
+    "Title": "Saat Sant Shikhar",
+    "Author": "Vanshi/Baldev",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "VG-01",
+    "ISBN": "9789384456689",
+    "Title": "VIVEKANAND PRERAK PRASANG EVAM VICHAR KOSH",
+    "Author": "SWAMI VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   135.00 "
+  },
+  {
+    "Code": "VG-02",
+    "ISBN": "9789384456603",
+    "Title": "MEIN NASTIK KYON HUN",
+    "Author": "BHAGAT SINGH",
+    "Binding": "PB",
+    "Price": "₹   125.00 "
+  },
+  {
+    "Code": "VG-03",
+    "ISBN": "9789384456436",
+    "Title": "MAINE GANDHI VADH KYO KIYA ?",
+    "Author": "NATHURAM GOSE",
+    "Binding": "PB",
+    "Price": "₹   195.00 "
+  },
+  {
+    "Code": "VG-04",
+    "ISBN": "9788186265161",
+    "Title": "YODHA SANIYASI : VIVEKANAND",
+    "Author": "HANSRAJ REHBAR",
+    "Binding": "PB",
+    "Price": "₹   150.00 "
+  },
+  {
+    "Code": "VG-05",
+    "ISBN": "9789384456207",
+    "Title": "KARAM YOG",
+    "Author": "SWAMI VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   90.00 "
+  },
+  {
+    "Code": "VG-06",
+    "ISBN": "9789384456221",
+    "Title": "GYAN YOG",
+    "Author": "SWAMI VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   150.00 "
+  },
+  {
+    "Code": "VG-07",
+    "ISBN": "9789384456214",
+    "Title": "RAAJ YOG",
+    "Author": "SWAMI VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   125.00 "
+  },
+  {
+    "Code": "VG-08",
+    "ISBN": "9789384456191",
+    "Title": "PREM YOG",
+    "Author": "SWAMI VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   90.00 "
+  },
+  {
+    "Code": "VG-09",
+    "ISBN": "9789384456184",
+    "Title": "BHAKTI  YOG",
+    "Author": "SWAMI VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   90.00 "
+  },
+  {
+    "Code": "VG-10",
+    "ISBN": "9789384456245",
+    "Title": "YOG VIGYAN ",
+    "Author": "SWAMI VIVEKANAND",
+    "Binding": "PB",
+    "Price": "₹   90.00 "
+  },
+  {
+    "Code": "VG-11",
+    "ISBN": "8186265058",
+    "Title": "GANDHI BENQAB",
+    "Author": "HANSRAJREHBAR",
+    "Binding": "PB",
+    "Price": "₹   150.00 "
+  },
+  {
+    "Code": "VG-12",
+    "ISBN": "9789384456429",
+    "Title": "NEHRU BENQAB",
+    "Author": "HANSRAJREHBAR",
+    "Binding": "PB",
+    "Price": "₹   125.00 "
+  },
+  {
+    "Code": "SM-01",
+    "ISBN": "9788190429702",
+    "Title": "Bharat Ki Pramukh Nadiyan",
+    "Author": "Vinod Kr. Tiwari",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-02",
+    "ISBN": "9788171382064",
+    "Title": "Telifilm : Nirman Kala",
+    "Author": "Vivekanand",
+    "Binding": "HB",
+    "Price": "₹ 200.00"
+  },
+  {
+    "Code": "SM-03",
+    "ISBN": "9789380459110",
+    "Title": "Hindi Filmo Ka Sankshipta Itihas",
+    "Author": "Dilchasp",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-04",
+    "ISBN": "9788190809504",
+    "Title": "Hindi Cinema Ke 100 Varsh",
+    "Author": "Dilchasp",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-05",
+    "ISBN": "9789380459189",
+    "Title": "Hindi Cinema ka Badalata Roop",
+    "Author": "Dilchasp",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9789352292653",
+    "Title": "Sanskritik Morchabandi Ka Itihas",
+    "Author": "Rajendra Yadav",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  }
+]

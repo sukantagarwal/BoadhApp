@@ -1,0 +1,530 @@
+[
+  {
+    "Code": "pp-01",
+    "ISBN": "",
+    "Title": "adhunik hindi shabdh kosh ",
+    "Author": "shayam bhadur verma",
+    "Binding": "HB",
+    "Price": "₹ 1000"
+  },
+  {
+    "Code": "pp-02",
+    "ISBN": "",
+    "Title": "advanced hindi shabdh kosh (in 2 parts)",
+    "Author": "shayam bhadur verma",
+    "Binding": "HB",
+    "Price": "₹ 2000"
+  },
+  {
+    "Code": "pp-03",
+    "ISBN": "9789350480540",
+    "Title": "Pocket Hindi english dictionary",
+    "Author": "Ed. Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "pp-04",
+    "ISBN": "",
+    "Title": "pocket english hindi dictionary ",
+    "Author": "Ed. Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "pp-05",
+    "ISBN": "8173155615",
+    "Title": "Hindi English Dictionary",
+    "Author": "Badri Nath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "pp-06",
+    "ISBN": "8173155607",
+    "Title": "English Hindi Dictionary",
+    "Author": "Badri Nath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "pp-07",
+    "ISBN": "9789352663170",
+    "Title": "Vishwa Vyakti Kosh",
+    "Author": "Mukesh ‘Nadaan’",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "pp-08",
+    "ISBN": "9789351862291",
+    "Title": "Hindi Ki Manak Vartani",
+    "Author": "Dr. K.C. Bhatia & Rachna Bhatia",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "pp-09",
+    "ISBN": "9789383110902",
+    "Title": "Chitramaya Bal Kosh",
+    "Author": "Dr. Bholanath Tiwari & Dr. Mukul Priyadarshini",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "pp-10",
+    "ISBN": "9788173150326",
+    "Title": "Angrezi-Hindi Abhivyakti Kosh",
+    "Author": "Kailash Chandra Bhatia",
+    "Binding": "HB",
+    "Price": "₹ 700"
+  },
+  {
+    "Code": "pp-11",
+    "ISBN": "",
+    "Title": "hindi angrezi Abhivyakti Kosh",
+    "Author": "Kailash Chandra Bhatia",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "pp-12",
+    "ISBN": "9789352662753",
+    "Title": "Hindi Angrezi Muhawara-Lokokti Kosh",
+    "Author": "Kailash Chandra Bhatia",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "pp-13",
+    "ISBN": "",
+    "Title": "angrezi hindi Muhawara-Lokokti Kosh",
+    "Author": "Bholanath Tiwari",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "pp-14",
+    "ISBN": "9789386231833",
+    "Title": "Angrezi-Hindi Anuvad Vyakaran",
+    "Author": "Suraj Bhan Singh",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "pp-15",
+    "ISBN": "9789351864226",
+    "Title": "Advanced Hindi English Dictionary",
+    "Author": "Dr. Badri Nath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 800"
+  },
+  {
+    "Code": "pp-16",
+    "ISBN": "",
+    "Title": "advanced english hindi dictionary",
+    "Author": "Dr. Badri Nath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 900"
+  },
+  {
+    "Code": "pp-17",
+    "ISBN": "",
+    "Title": "akhil bhartiya prashashinik dictionary",
+    "Author": "Kailash Chandra Bhatia",
+    "Binding": "HB",
+    "Price": "₹ 1100"
+  },
+  {
+    "Code": "pp-18",
+    "ISBN": "",
+    "Title": "Hindi Paryayavachi kosh",
+    "Author": "Bholanath Tiwari",
+    "Binding": "HB",
+    "Price": "₹ 900"
+  },
+  {
+    "Code": "pp-19",
+    "ISBN": "",
+    "Title": "Hindi tukant Kosh ",
+    "Author": "ramanat sahaya",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "pp-20",
+    "ISBN": "",
+    "Title": "Hindi Vilom shabdh kosh ",
+    "Author": "sant sameer",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "pp-21",
+    "ISBN": "",
+    "Title": "Hindi Vyakaran ",
+    "Author": "kamta prasad guru",
+    "Binding": "HB",
+    "Price": "₹ 800"
+  },
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788180313424",
+    "Title": "Lokbharti : Hindi Kriya Kosh",
+    "Author": "Helmut Nesiptaal",
+    "Binding": "HB",
+    "Price": "₹ 1500"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "9788180316296",
+    "Title": "Lokbharti Hindi Angreji Paryayvachi Evam Viparyay Kosh",
+    "Author": "Ed. Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788180310201",
+    "Title": "Lokbharti Hindi Muhaware Aur Lokokti Kosh",
+    "Author": "Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788180318900",
+    "Title": "Lokbharti Rajbhasha Shabd Kosh (English-Hindi)",
+    "Author": "Hardev Bahari",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RKG-05",
+    "ISBN": "9788180310362",
+    "Title": "Lokbharti Rajbhasha Shabd Kosh (Hindi-English)",
+    "Author": "Hardev Bahari",
+    "Binding": "HB",
+    "Price": "₹ 400"
+  },
+  {
+    "Code": "RKG-06",
+    "ISBN": "9788192434667",
+    "Title": "Prashasnik Kosh (Angreji-Hindi)",
+    "Author": "Dr. Hardev Bahri",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "RKG-07",
+    "ISBN": "9788192434674",
+    "Title": "Prashasnik Kosh (Hindi-Angreji)",
+    "Author": "Dr. Hardev Bahri",
+    "Binding": "HB",
+    "Price": "₹ 700"
+  },
+  {
+    "Code": "RKG-08",
+    "ISBN": "9788183616553",
+    "Title": "Sachitra Hindi Angreji Bal kosh",
+    "Author": "Kusum Khemani",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "RKG-09",
+    "ISBN": "9788126726325",
+    "Title": "Sachitra Hindi Bal Kosh",
+    "Author": "Kusum Khemani",
+    "Binding": "HB",
+    "Price": "₹ 395"
+  },
+  {
+    "Code": "RKG-10",
+    "ISBN": "9788180316302",
+    "Title": "Urdu Hindi Angreji Tribhashi Kosh",
+    "Author": "Ed. Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 700"
+  },
+  {
+    "Code": "RKG-11",
+    "ISBN": "9788180316319",
+    "Title": "Urdu Hindi Kosh (Urdu Lipi Sahit)",
+    "Author": "Ramchandra Verma/Badrinath Kapoor",
+    "Binding": "HB",
+    "Price": "₹ 450"
+  },
+  {
+    "Code": "SM-01",
+    "ISBN": "9788171380190",
+    "Title": "Samayik Prashashnik Kosh (English-Hindi)",
+    "Author": "Gopinath Srivastava",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "SM-02",
+    "ISBN": "9788171380961",
+    "Title": "Samayik Prashashnik Kosh (Hindi-English)",
+    "Author": "Gopinath Srivastava",
+    "Binding": "HB",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-03",
+    "ISBN": "9788171382712",
+    "Title": "Samayik Prashashnik Karyavidhi",
+    "Author": "Gopinath Srivastava",
+    "Binding": "HB",
+    "Price": "₹ 395.00"
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9788170554493",
+    "Title": "Brahad Hindi Patra Patrika Kosh",
+    "Author": "Surya Prasad Dixit",
+    "Binding": "HB",
+    "Price": "₹ 450"
+  },
+  {
+    "Code": "VP-02",
+    "ISBN": "9789350008867",
+    "Title": "Hindi Uchcharan Kosh",
+    "Author": "Bholanath Tiwari",
+    "Binding": "HB",
+    "Price": "₹ 750"
+  },
+  {
+    "Code": "VP-03",
+    "ISBN": "9788170551300",
+    "Title": "Uchchatar Hindi Angrezee Kosh",
+    "Author": "Hardev Bahri",
+    "Binding": "HB",
+    "Price": "₹ 750"
+  },
+  {
+    "Code": "VP-04",
+    "ISBN": "9788170559924",
+    "Title": "HindiEnglish Khawat Kosh",
+    "Author": "Dr.Brijmohan",
+    "Binding": "HB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "VP-05",
+    "ISBN": "9788170559856",
+    "Title": "Brahad Urdu Sahitya Kosh",
+    "Author": "Dr. Kamal Naseem",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "RS-01",
+    "ISBN": "9788170280026",
+    "Title": "Hindi English Dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RS-02",
+    "ISBN": "9788170285007",
+    "Title": "concise hindi english dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 195"
+  },
+  {
+    "Code": "RS-03",
+    "ISBN": "9788170285014",
+    "Title": "Pocket Hindi english dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-04",
+    "ISBN": "9788170281009",
+    "Title": "English Hindi Dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RS-05",
+    "ISBN": "9788170282860",
+    "Title": "concise english hindi dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 195"
+  },
+  {
+    "Code": "RS-06",
+    "ISBN": "9788170283133",
+    "Title": "pocket english hindi dictionary ",
+    "Author": "Dr.hardev bahari",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-07",
+    "ISBN": "9788170280866",
+    "Title": "hindi-hindi dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RS-08",
+    "ISBN": "9788170282679",
+    "Title": "concise hindi hindi dictionary ",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 195"
+  },
+  {
+    "Code": "RS-09",
+    "ISBN": "9788170283270",
+    "Title": "pocket hindi hindi dictionary ",
+    "Author": "Dr.hardev bahari",
+    "Binding": "PB",
+    "Price": "₹ 90"
+  },
+  {
+    "Code": "RS-10",
+    "ISBN": "9789350640395",
+    "Title": "dictionary of english hindi synonyms",
+    "Author": "Dr.Badrinath kapoor",
+    "Binding": "HB",
+    "Price": "₹ 425"
+  },
+  {
+    "Code": "RS-11",
+    "ISBN": "9788170286653",
+    "Title": "learners hindi english dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 800"
+  },
+  {
+    "Code": "RS-12",
+    "ISBN": "9788170286660",
+    "Title": "learners hindi english dictionary part-2",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 800"
+  },
+  {
+    "Code": "RS-13",
+    "ISBN": "9788170282907",
+    "Title": "learners english hindi dictionary",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 600"
+  },
+  {
+    "Code": "RS-14",
+    "ISBN": "9788170281849",
+    "Title": "english hindi paribhashik shabdh kosh",
+    "Author": "Dr.hardev bahari",
+    "Binding": "HB",
+    "Price": "₹ 525"
+  },
+  {
+    "Code": "RS-15",
+    "ISBN": "9788170281306",
+    "Title": "shabdh parivar kosh",
+    "Author": "Dr.Badrinath kapoor",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-16",
+    "ISBN": "9788170281078",
+    "Title": "vyavharik hindi shudh prayog",
+    "Author": "Dr.Om prakash ",
+    "Binding": "PB",
+    "Price": "₹ 135"
+  },
+  {
+    "Code": "RS-17",
+    "ISBN": "9788170285748",
+    "Title": "sanskrit swayam shikshak ",
+    "Author": "Damodar satvalekar ",
+    "Binding": "PB",
+    "Price": "₹ 145"
+  },
+  {
+    "Code": "RS-18",
+    "ISBN": "9788170281238",
+    "Title": "shabdarth vichar kosh ",
+    "Author": "Acharya Ram chandra verma",
+    "Binding": "HB",
+    "Price": "₹ 500"
+  },
+  {
+    "Code": "RS-19",
+    "ISBN": "9788170282563",
+    "Title": "hindi angrezi thesaurus",
+    "Author": "Gopinath Srivastava",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-20",
+    "ISBN": "9788170280217",
+    "Title": "rajbhasha prayog kosh english hindi ",
+    "Author": "Gopinath Srivastava",
+    "Binding": "HB",
+    "Price": "₹ 375"
+  },
+  {
+    "Code": "RS-21",
+    "ISBN": "9788170285076",
+    "Title": "muhawara kosh",
+    "Author": "harivansh rai sharma",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "RS-22",
+    "ISBN": "9788170281610",
+    "Title": "subhashit shabdh kosh",
+    "Author": "harivansh rai sharma",
+    "Binding": "HB",
+    "Price": "₹ 550"
+  },
+  {
+    "Code": "RS-23",
+    "ISBN": "9788170286936",
+    "Title": "kahavat kosh",
+    "Author": "samar singh ",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-24",
+    "ISBN": "9788170280095",
+    "Title": "lokokti kosh",
+    "Author": "harivansh rai sharma",
+    "Binding": "HB",
+    "Price": "₹ 275"
+  },
+  {
+    "Code": "RS-25",
+    "ISBN": "9788170286899",
+    "Title": "urdu hindi shabdh kosh",
+    "Author": "Dr.sayad asad ali",
+    "Binding": "HB",
+    "Price": "₹ 235"
+  },
+  {
+    "Code": "RS-26",
+    "ISBN": "9788174830745",
+    "Title": "vidyarthi hindi shabdh kosh(pictorial)",
+    "Author": "Dr.Om prakash ",
+    "Binding": "HB",
+    "Price": "₹ 175"
+  }
+]

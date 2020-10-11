@@ -1,0 +1,394 @@
+[
+  {
+    "Code": "PP-01",
+    "ISBN": "9789351865230",
+    "Title": "Main Warren Buffett Bol Raha Hoon",
+    "Author": "Mahesh Sharma",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-01",
+    "ISBN": "9.79E+12",
+    "Title": "Satya Ke Prayog",
+    "Author": "Gandhi Mohandas K.",
+    "Binding": "PB",
+    "Price": "₹ 165"
+  },
+  {
+    "Code": "RS-02",
+    "ISBN": "9.79E+12",
+    "Title": "Dashdwar Se Sopan Tak",
+    "Author": "Bachchan/Harivansh Rai",
+    "Binding": "HB",
+    "Price": "₹ 525"
+  },
+  {
+    "Code": "RS-03",
+    "ISBN": "9.79E+12",
+    "Title": "Neerh Ka Nirman Phir",
+    "Author": "Bachchan/Harivansh Rai",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RS-04",
+    "ISBN": "9.79E+12",
+    "Title": "Kya Bhooloon Kya Yaad Karoon",
+    "Author": "Bachchan/Harivansh Rai",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-05",
+    "ISBN": "9.79E+12",
+    "Title": "Basere Se Door",
+    "Author": "Bachchan/Harivansh Rai",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-06",
+    "ISBN": "9.79E+12",
+    "Title": "Jo Maine Jiya",
+    "Author": "Kamleshwar",
+    "Binding": "HB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "RS-07",
+    "ISBN": "9.79E+12",
+    "Title": "Yaadon Ke Chirag",
+    "Author": "Kamleshwar",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-08",
+    "ISBN": "9.79E+12",
+    "Title": "Jalti Hui Nadi",
+    "Author": "Kamleshwar",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-09",
+    "ISBN": "9.79E+12",
+    "Title": "Aksharon Ke Saye",
+    "Author": "Pritam/Amrita",
+    "Binding": "PB",
+    "Price": "₹ 215"
+  },
+  {
+    "Code": "RS-10",
+    "ISBN": "9.79E+12",
+    "Title": "Vanphool",
+    "Author": "Tripathi/Ramanath",
+    "Binding": "HB",
+    "Price": "₹ 275"
+  },
+  {
+    "Code": "RS-11",
+    "ISBN": "9.79E+12",
+    "Title": "Tukde Tukde Dastan",
+    "Author": "Nagar/Amritlal",
+    "Binding": "HB",
+    "Price": "₹ 285"
+  },
+  {
+    "Code": "RS-12",
+    "ISBN": "9.79E+12",
+    "Title": "Pankhheen",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-13",
+    "ISBN": "9.79E+12",
+    "Title": "Mukt Gagan Mein",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-14",
+    "ISBN": "9.79E+12",
+    "Title": "Aur Panchhi Ud Gaya",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "HB",
+    "Price": "₹ 275"
+  },
+  {
+    "Code": "RS-15",
+    "ISBN": "9.79E+12",
+    "Title": "Yeh Kalam Yeh Kagaz Yeh Akshar",
+    "Author": "Pritam/Amrita",
+    "Binding": "PB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "RS-16",
+    "ISBN": "9.79E+12",
+    "Title": "Rangey Raghav: Ek Antrang Parichay",
+    "Author": "Raghav/Sulochna",
+    "Binding": "HB",
+    "Price": "₹ 100"
+  },
+  {
+    "Code": "RS-17",
+    "ISBN": "9.79E+12",
+    "Title": "Mehfil",
+    "Author": "Kamleshwar",
+    "Binding": "HB",
+    "Price": "₹ 100"
+  },
+  {
+    "Code": "RS-18",
+    "ISBN": "9.79E+12",
+    "Title": "Mere Hamsafar : Kamleshwar",
+    "Author": "Kamleshwar/Gayatri",
+    "Binding": "HB",
+    "Price": "₹ 200"
+  },
+  {
+    "Code": "RS-19",
+    "ISBN": "9.79E+12",
+    "Title": "Shikasht Ki Awaz",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "RS-20",
+    "ISBN": "9.79E+12",
+    "Title": "Jab Aankh Khul Gayi",
+    "Author": "Vaid/Krishan Baldev",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-21",
+    "ISBN": "9.79E+12",
+    "Title": "Meri Jeewan Gatha",
+    "Author": "Narayan/R.K.",
+    "Binding": "PB",
+    "Price": "₹ 275"
+  },
+  {
+    "Code": "RS-22",
+    "ISBN": "9.79E+12",
+    "Title": "Meri Jeewan Gatha",
+    "Author": "Narayan/R.K.",
+    "Binding": "HB",
+    "Price": "₹ 425"
+  },
+  {
+    "Code": "RS-23",
+    "ISBN": "9.79E+12",
+    "Title": "Mere Sansmaran",
+    "Author": "Prabhakar/Vishnu",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RS-24",
+    "ISBN": "9.79E+12",
+    "Title": "Mohan Rakesh Ki Diary",
+    "Author": "Rakesh/Mohan",
+    "Binding": "HB",
+    "Price": "₹ 450"
+  },
+  {
+    "Code": "RS-25",
+    "ISBN": "9.79E+12",
+    "Title": "Ankhon Dekha Pakistan",
+    "Author": "Kamleshwar",
+    "Binding": "HB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "RS-26",
+    "ISBN": "9.79E+12",
+    "Title": "Rekhachitra",
+    "Author": "Verma/Mahadevi",
+    "Binding": "HB",
+    "Price": "₹ 110"
+  },
+  {
+    "Code": "RS-27",
+    "ISBN": "9.79E+12",
+    "Title": "Meri Duniya Mere Dost",
+    "Author": "Singh/Khushwant",
+    "Binding": "HB",
+    "Price": "₹ 325"
+  },
+  {
+    "Code": "RS-28",
+    "ISBN": "9.79E+12",
+    "Title": "Meri Duniya Mere Dost",
+    "Author": "Singh/Khushwant",
+    "Binding": "PB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "RS-29",
+    "ISBN": "9.79E+12",
+    "Title": "Parikhana",
+    "Author": "Shah/Nawab Wajid Ali",
+    "Binding": "PB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "RS-30",
+    "ISBN": "9.79E+12",
+    "Title": "Turning Points",
+    "Author": "Kalam/A.P.J. Abdul",
+    "Binding": "PB",
+    "Price": "₹ 225"
+  },
+  {
+    "Code": "RS-31",
+    "ISBN": "9.79E+12",
+    "Title": "Turning Points",
+    "Author": "Kalam/ A.P.J. Abdul",
+    "Binding": "HB",
+    "Price": "₹ 350"
+  },
+  {
+    "Code": "RS-32",
+    "ISBN": "9.79E+12",
+    "Title": "Adamya Sahas",
+    "Author": "Kalam/A.P.J. Abdul",
+    "Binding": "HB",
+    "Price": "₹ 285"
+  },
+  {
+    "Code": "RS-33",
+    "ISBN": "9.79E+12",
+    "Title": "Indomitable Spirit",
+    "Author": "Kalam/A.P.J. Abdul",
+    "Binding": "PB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "RS-34",
+    "ISBN": "9.79E+12",
+    "Title": "Adamya Sahas",
+    "Author": "Kalam/A.P.J. Abdul",
+    "Binding": "PB",
+    "Price": "₹ 275"
+  },
+  {
+    "Code": "VG-01",
+    "ISBN": "978 93 84456 30 6",
+    "Title": "YUG PURUSH VIVEKANAND : EK JEEVANI",
+    "Author": "SHOBHA MATHUR BIJENDER",
+    "Binding": "PB",
+    "Price": "₹   225.00 "
+  },
+  {
+    "Code": "SM-01",
+    "ISBN": "9788171381906",
+    "Title": "...Kehna Zaroori Tha",
+    "Author": "Kanhaiyalal Nandan",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-02",
+    "ISBN": "9788171382286",
+    "Title": "…Main Tha Aur Mera Aakash",
+    "Author": "Kanhaiyalal Nandan",
+    "Binding": "",
+    "Price": "₹ 300.00"
+  },
+  {
+    "Code": "SM-03",
+    "ISBN": "9788188060207",
+    "Title": "Yadon Ki Chhanv Me",
+    "Author": "Vishnu Prabhakar",
+    "Binding": "",
+    "Price": "₹ 100.00"
+  },
+  {
+    "Code": "SM-04",
+    "ISBN": "9789380458014",
+    "Title": "Lagta Nahin Hai Dil Mera",
+    "Author": "Krishna Agnihotri",
+    "Binding": "",
+    "Price": "₹ 700.00"
+  },
+  {
+    "Code": "SM-05",
+    "ISBN": "9789380458021",
+    "Title": "Aur..Aur…Aurat",
+    "Author": "Krishna Agnihotri",
+    "Binding": "",
+    "Price": "₹ 250.00"
+  },
+  {
+    "Code": "SM-06",
+    "ISBN": "9789380458694",
+    "Title": "Aaroh Avroh",
+    "Author": "Susham Bedi",
+    "Binding": "",
+    "Price": "₹ 495.00"
+  },
+  {
+    "Code": "SM-07",
+    "ISBN": "9788171383047",
+    "Title": "Aaphudri (Ek Ziddi Ladaki ki Aatmakatha)",
+    "Author": "Ramnika Gupta",
+    "Binding": "",
+    "Price": "₹ 995.00"
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9789388684910",
+    "Title": "Anya Se Ananya",
+    "Author": "Prabha Khetan",
+    "Binding": "HB",
+    "Price": "₹ 595"
+  },
+  {
+    "Code": "VP-02",
+    "ISBN": "9789388684927",
+    "Title": "Anya Se Ananya",
+    "Author": "Prabha Khetan",
+    "Binding": "PB",
+    "Price": "₹ 299"
+  },
+  {
+    "Code": "VP-03",
+    "ISBN": "9788170557708",
+    "Title": "Kamdev Ka Apna Basant Ritu Ka Sapna",
+    "Author": "Habib Tanvir",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "VP-04",
+    "ISBN": "9788181432384",
+    "Title": "Kufra",
+    "Author": "Tahamina Durrani Tanslated by Vineeta Gupta",
+    "Binding": "PB",
+    "Price": "₹ 250"
+  },
+  {
+    "Code": "VP-05",
+    "ISBN": "9789350000182",
+    "Title": "Lata Didi : Ajeeb Dastan Hai Ye…",
+    "Author": "Harish Bhimani",
+    "Binding": "HB",
+    "Price": "₹ 495"
+  },
+  {
+    "Code": "VP-06",
+    "ISBN": "9789352291434",
+    "Title": "Lata Didi : Ajeeb Dastan Hai Ye…",
+    "Author": "Harish Bhimani",
+    "Binding": "PB",
+    "Price": "₹ 225"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Code": "RKG-01",
+    "ISBN": "9788126714940",
+    "Title": "Ghar Ka Jogi Jogda",
+    "Author": "Kashinath Singh",
+    "Binding": "PB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RKG-02",
+    "ISBN": "9788126718764",
+    "Title": "Kitne Sharon Mein Kitne Baar",
+    "Author": "Mamta Kaliya",
+    "Binding": "HB",
+    "Price": "₹ 300"
+  },
+  {
+    "Code": "RKG-03",
+    "ISBN": "9788171788361",
+    "Title": "Sobti Ek Sohbat",
+    "Author": "Krishna Sobti",
+    "Binding": "HB",
+    "Price": "₹ 800"
+  },
+  {
+    "Code": "RKG-04",
+    "ISBN": "9788183614283",
+    "Title": "Vatayan",
+    "Author": "Shivani",
+    "Binding": "HB",
+    "Price": "₹ 150"
+  },
+  {
+    "Code": "RKG-05",
+    "ISBN": "9788183614290",
+    "Title": "Vatayan",
+    "Author": "Shivani",
+    "Binding": "PB",
+    "Price": "₹ 75"
+  },
+  {
+    "Code": "VP-01",
+    "ISBN": "9789350004920",
+    "Title": "Chehre",
+    "Author": "Nida Fazli",
+    "Binding": "HB",
+    "Price": "₹ 295"
+  },
+  {
+    "Code": "VP-02",
+    "ISBN": "9789389563764",
+    "Title": "Til Bhar Jagah Nahin",
+    "Author": "Chitra Mudgal",
+    "Binding": "HB",
+    "Price": "₹ 399"
+  }
+]
